@@ -61,7 +61,7 @@ social:
   link: https://www.linkedin.com/in/willmgardner/
 - icon: cv
   icon_pack: ai
-  link: uploads/cv.pdf #static/uploads/cv.pdf
+  link: uploads/cv.pdf "newtab" #static/uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
