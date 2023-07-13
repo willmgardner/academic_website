@@ -1,0 +1,352 @@
+%%% Curriculum Vitae
+%%% Author: William Gardner <wmgardn@gmail.com>
+%%% Template author: Kieran Healy <kjhealy@gmail.com>
+%%%
+%%% ------------------------------------------------------------------------
+%%% Requirements that are included in a modern tex distribution:
+%%% ------------------------------------------------------------------------
+%%% xelatex
+%%% fontspec.sty
+%%% hyperrref.sty
+%%% xunicode.sty
+%%% color.sty
+%%% url.sty
+%%% fancyhdr.sty
+%%% memoir.cls
+%%% fontawesome.sty
+%%%
+%%% ------------------------------------------------------------------------
+%%% Requirements from https://github.com/kjhealy/latex-custom-kjh
+%%% ------------------------------------------------------------------------
+%%% org-preamble-xelatex.sty
+%%% memoir-article-styles.sty
+%%%
+%%% ------------------------------------------------------------------------
+%%% Optional
+%%% ------------------------------------------------------------------------
+%%% git
+%%% vc.sty
+%%% revnum.sty
+%%% Fonts
+%%%------------------------------------------------------------------------
+
+\documentclass[11pt,article,oneside]{memoir}
+\usepackage{org-preamble-xelatex}
+\usepackage{fontawesome,url}
+\usepackage{fontspec}
+\usepackage[left=1.5in,
+            right=1in,
+            top=0.75in,
+            bottom=0.75in]{geometry}
+
+
+%%%------------------------------------------------------------------------
+%%% Metadata
+%%%------------------------------------------------------------------------
+
+\def\myauthor{William Gardner}
+\def\mytitle{Vita}
+\def\mycopyright{\myauthor}
+\def\myaffiliation{Columbia University Vagelos Colleges of Physicians & Surgeons}
+\def\myemail{wmg2114@cumc.columbia.edu}
+\def\myweb{willgardner.io}
+\def\mygithub{github.com/willmgardner}
+\def\mylinkedin{linkedin.com/willmgardner}
+\def\mytwitter{@willmgardner}
+
+%%%------------------------------------------------------------------------
+%%% Document
+%%%------------------------------------------------------------------------
+\begin{document}
+
+%% Choose fonts for use with xelatex
+%% Minion and Myriad are widely available, from Adobe.
+\setromanfont[Mapping={tex-text},
+	Numbers={OldStyle},
+	Ligatures={Common}]{Minion Pro}
+\setsansfont[Mapping=tex-text,
+	Ligatures={Common},
+	Colour=0033aa]{Unit-Medium}
+\setmonofont[Mapping=tex-text,Scale=0.72]{Consolas}
+
+\newfontface\scheader[SmallCapsFont={Minion Pro},SmallCapsFeatures={Letters=SmallCaps}]{Minion Pro}
+
+\newfontfamily{\minbold}{Minion Pro Bold}[Scale=MatchUppercase]
+
+\newfontface\addressblock[Mapping={tex-text},
+	Numbers={OldStyle},
+	Ligatures={Common}]{Minion Pro Medium Caption}
+
+%%%------------------------------------------------------------------------
+%%% Local commands
+%%%------------------------------------------------------------------------
+
+%% Marginal header
+%% Note: as the document goes on you may need to introduce a (gradually increasing)
+%% \vspace element to keep the marginal header pleasingly aligned with the first
+%% item in the body text. Like this: \marginhead{{\vskip 0.4em}Grants}, or
+%% \marginhead{{\vskip 0.8em}Service}. Experiment as needed.
+\newcommand{\marginhead}[1]{\marginpar{\textsf{{\footnotesize\vspace{-1em}\flushright #1}}}}
+
+
+%% [optional] custom ampersand (font consistent with the one chosen above)
+% \newcommand{\amper}{{\fontspec[Scale=.95,Colour=AA0000]{Minion Pro Medium}\selectfont\&\,}}
+
+%% No bullets on labels
+\renewcommand{\labelitemi}{~}
+
+%% Custom hanging indent for vita items
+\def\ind{\hangindent=1 true cm\hangafter=1 \noindent}
+%\def\ind{\hangindent=18pt\hangafter=1 \noindent}
+\def\labelitemi{~}
+\renewcommand{\labelitemii}{~}
+
+%%%------------------------------------------------------------------------
+%%% Address and contact block
+%%%------------------------------------------------------------------------
+\begin{minipage}[t]{3.5in}
+ \flushright {\footnotesize
+ \href{http://healthdata.org}{Institute for Health Metrics and Evaluation} \\ University of Washington \\ 
+ \vspace{.25 cm} \href{http://vagelos.columbia.edu}{Vagelos College of Physicians and Surgeons} \\ Columbia University \\}
+\end{minipage}
+\hfill
+%\begin{minipage}[t]{0.0in}
+% dummy (needed here)
+%\end{minipage}
+\hfill
+\begin{minipage}[t]{1.5in}
+  \flushright \footnotesize {\texttt{\href{http://willgardner.io}{\myweb}} \, \faGlobe} \\
+	{\texttt{\href{http://twitter.com/willmgardner}{\mytwitter}} \, \faTwitter}  \\
+	{\texttt{\href{http://github.com/willmgardner}{\mygithub}} \, \faGithub} \\
+  {\texttt{\href{http://linkedin.com/willmgardner}{\mylinkedin}} \, \faLinkedinSquare} \\
+  {\texttt{\href{mailto:\myemail}{\myemail}} \, \faEnvelope} \\
+\end{minipage}
+
+\thispagestyle{empty}
+
+\bigskip
+
+%% Name
+\noindent{\LARGE\scheader \textsc{william gardner}}
+\reversemarginpar
+
+\bigskip
+
+%% Education
+
+\marginhead{\sffamily {{\vskip -0.23em} education}}
+
+\noindent{\minbold{Columbia University \vspace{0.01in}}}
+
+\ind Doctor of Medicine, expected 2026.
+
+\medskip
+\noindent{\minbold{University of Washington \vspace{0.01in}}}
+
+\ind MPH, Global Health Metrics, 2020.
+
+\ind \hspace{0.35in} \footnotesize Thesis: \href{https://www.proquest.com/openview/e41ccfd9cef6b7376c1218dc0080b575/1?pq-origsite=gscholar&cbl=18750&diss=y}{\emph{Global, Regional, and National Estimates of Complete Coverage of Maternal \newline Obstetric Care
+	Interventions, 1990--2019}}.\normalsize 
+
+\medskip
+\noindent{\minbold{Harvard University\vspace{0.01in}}}
+
+\ind AB, Sociology, \emph{Magna cum laude} with Highest Honors, 2017.
+
+\ind \hspace{0.35in} \footnotesize Thesis: \emph{Institutions, Inequalities, and Infant Death: Understanding the Role of Health Care \newline
+Decommodification in Latin America} \newline Minor: Global Health and Health Policy \normalsize \vspace{0.01in}
+
+\bigskip
+
+%% Experience
+\marginhead{\sffamily {{\vskip -0.23em} experience}}
+
+% IHME
+\noindent{\minbold{Institute for Health Metrics and Evaluation\vspace{0.01in}}} \hfill Seattle, WA
+
+\ind Research Scientist \hfill 2020 -- present
+
+\ind Post-Bachelor Fellow\vspace{0.02in} \hfill 2017 -- 2020
+
+{\noindent \footnotesize Work on the Maternal and Child Health team as part of the Global Burden of Disease Study; Model disease
+burden due to neonatal infectious diseases, distribution of population hemoglobin levels and prevalence of
+anemia, burden of disease attributable to lead exposure and suboptimal breastfeeding, and a variety of
+maternal and child health interventions, including coverage of antenatal care, skilled birth attendance,
+caesarean section, and postnatal care.}
+
+\bigskip
+
+% Harvard Sociology
+\noindent{\minbold{Department of Sociology, Harvard University\vspace{0.01in}}} \hfill Cambridge, MA
+
+\ind Research Assistant\vspace{0.02in} \hfill 2015 -- 2017
+
+{\noindent \footnotesize Worked under the direction of Professor Jason Beckfield on a project researching the effects of income
+inequality on population health in Latin America using cross-national economic and health data from the
+World Income Inequality Database, World Bank, and World Values Survey.}
+
+\bigskip
+
+% Cordeiro Summer Research Fellowship
+\noindent{\minbold{Department of Global Health and Health Policy, Harvard University\vspace{0.01in}}} \hfill Cambridge, MA
+
+\ind Cordeiro Summer Research Fellow\vspace{0.02in} \hfill 2016
+
+{\noindent \footnotesize Conducted research for individual project entitled "Evaluating Distributional Effects of the Welfare State on
+Health in Latin America," which culminated in my senior thesis; Duties included performing extensive
+literature reviews and cited reference searches, acquiring and cleaning relevant data sources, data modeling
+and statistical analysis, and manuscript writing.}
+
+\bigskip
+
+% Child Family Health International
+\noindent{\minbold{Child Family Health International\vspace{0.01in}}} \hfill Quito \& Chone, Ecuador
+
+\ind Urban and Rural Comparative Health Intern\vspace{0.02in} \hfill 2014
+
+{\noindent \footnotesize Observed and participated in clinical rotations in various specialty clinics and hospitals in the towns of Quito
+and Chone, Ecuador; Researched and reported on topics dealing with health disparities and inequalities between urban and rural healthcare systems; 
+attended weekly lectures on topics in global health and health policy in Ecuador.}
+
+\newpage
+
+%% Publications
+\marginhead{\sffamily {\vskip 0.35em} publications}
+\medskip
+
+\noindent\emph{Journal articles \vspace{0.05in}}
+
+%% Use revnumerate environment if numbered publications are needed.
+%% (Include it above in the preamble).
+%% \renewcommand{\labelenumi}{\textsc{a}\theenumi.}
+%% \begin{revnumerate}
+
+\ind {\minbold Gardner WM}, GBD 2021 Anaemia Collaborators. Prevalence, years lived with disability, and trends in anaemia burden by severity 
+and cause from 1990--2021: findings from the Global Burden of Disease Study 2021. Forthcoming in \emph{The Lancet Haematology.}
+
+\ind GBD 2021 Sickle Cell Disease Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S2352-3026(23)00118-7}{Global, regional, and national prevalence and mortality burden of sickle cell disease, 2000--2021: 
+a systematic analysis from the Global Burden of Disease Study 2021}. \emph{The Lancet Haematology} 2023. Advance online publication.
+
+\ind GBD 2019 Healthcare Access and Quality Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S2214-109X(22)00429-6}{Assessing performance of
+the Healthcare Access and Quality Index, overall and by select age groups, for 204 countries and territories,
+1990--2019: a systematic analysis from the Global Burden of Disease Study 2019}. \emph{The Lancet Global Health} 2022; 10: e1715--43.
+
+\ind GBD 2019 LRI Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S1473-3099(22)00510-2}{Age-sex differences in the global burden of lower
+respiratory infections and risk factors, 1990--2019: results from the Global Burden of Disease Study 2019}. \emph{The Lancet Infectious Diseases} 2022; 22: 1626--47.
+
+\ind Gonçalves BP, Procter SR, Paul P, Chandna J, \emph{et al. (including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S2214-109X(22)00093-6}{Group B streptococcus infection during pregnancy 
+and infancy: estimates of regional and global burden}. \emph{The Lancet Global Health} 2022; 10: e807--19.
+
+\ind Fitzgerald R, Manguerra H, Arndt MB, {\minbold Gardner WM}, \emph{et al.} \href{https://doi.org/10.1126/sciadv.abm8954}{Current dichotomous metrics obscure trends in
+severe and extreme child growth failure}. \emph{Science Advances} 2021; 8.
+
+\ind GBD 2019 Under-5 Mortality Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(21)01207-1}{Global, regional, and national progress
+towards Sustainable Development Goal 3.2 for neonatal and child health: all-cause and cause-specific
+mortality findings from the Global Burden of Disease Study 2019}. \emph{The Lancet} 2021; 398: 870--905.
+
+\ind Local Burden of Disease Exclusive Breastfeeding Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1038/s41562-021-01108-6}{Mapping inequalities
+in exclusive breastfeeding in low- and middle-income countries, 2000--2018}. \emph{Nature Human Behaviour} 2021; 5: 1027--45.
+
+\ind GBD 2019 Universal Health Coverage Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(20)30750-9}{Measuring universal health
+coverage based on an index of effective coverage of health services in 204 countries and territories, 1990--2019: a 
+systematic analysis for the Global Burden of Disease Study 2019}. \emph{The Lancet} 2020; 396: 1250--84.
+
+\ind GBD 2019 Risk Factors Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(20)30752-2}{Global burden of 87 risk factors in 204
+countries and territories, 1990--2019: a systematic analysis for the Global Burden of Disease Study 2019}. \emph{The Lancet} 2020; 396: 1223--49.
+
+\ind GBD 2019 Diseases and Injuries Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(20)30925-9}{Global burden of 369 diseases and
+injuries in 204 countries and territories, 1990--2019: a systematic analysis for the Global Burden of Disease
+Study 2019}. \emph{The Lancet} 2020; 396: 1204--22.
+
+\ind GBD 2019 Viewpoint Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(20)31404-5}{Five insights from the Global Burden of Disease Study 2019}. 
+\emph{The Lancet} 2020; 396: 1135--59.
+
+\ind India State-Level Disease Burden Initiative Child Mortality Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(20)30471-2}{Subnational mapping of under-5 and neonatal mortality trends in India: the Global Burden of Disease Study
+2000--17}. \emph{The Lancet} 2020; 395: 1640--58.
+
+\ind GBD 2017 LRI Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S1473-
+3099(19)30410-4}{Quantifying risks and interventions that have affected
+the burden of lower respiratory infections among children younger than 5 years: an analysis for the Global
+Burden of Disease Study 2017}. \emph{The Lancet Infectious Diseases} 2020; 20: 60--79.
+
+\ind GBD 2017 Diarrhea Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S1473-
+3099(19)30401-3}{Quantifying risks and interventions that have
+affected the burden of diarrhoea among children younger than 5 years: an analysis of the Global Burden of
+Disease Study 2017}. \emph{The Lancet Infectious Diseases} 2020; 20: 37--59.
+
+\ind India State-Level Disease Burden Initiative Malnutrition Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S2352-4642(19)30273-1}{The burden
+of child and maternal malnutrition and trends in its indicators in the states of India: the Global Burden of
+Disease Study 1990--2017}. \emph{The Lancet Child \& Adolescent Health} 2019; 3: 855--70.
+
+\ind Bhattacharjee N, Schaeffer L, Marczak L, Ross J, Swartz S, Albright J, {\minbold Gardner WM}, Shields C, \emph{et al.} 
+\href{https://doi.org/10.1038/s41591-019-0525-0}{Mapping exclusive breastfeeding in Africa between 2000 and 2017}. \emph{Nature Medicine} 2019; 25: 1205--12.
+
+\ind GBD 2017 SDG Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(18)32281-5}{Measuring progress from 1990 to 2017 and
+projecting attainment to 2030 of the health-related Sustainable Development Goals for 195 countries and
+territories: a systematic analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 2091--138.
+
+\ind GBD 2017 Risk Factor Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(18)32225-6}{Global, regional, and national comparative
+risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks
+for 195 countries and territories, 1990--2017: a systematic analysis for the Global Burden of Disease Study
+2017}. \emph{The Lancet} 2018; 392: 1923--94.
+
+\ind GBD 2017 Disease and Injury Incidence and Prevalence Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(18)32279-7}{Global, regional, and national incidence,
+prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990--2017: a 
+systematic analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 1789--858.
+
+\ind GBD 2017 DALYs and HALE Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(18)32335-3}{Global, regional, and national disability-adjusted
+life-years (DALYs) for 359 diseases and injuries and healthy life expectancy (HALE) for 195 countries and
+territories, 1990--2017: a systematic analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 1859--922.
+
+\ind GBD 2017 Causes of Death Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(18)32203-7}{Global, regional, and national age-sex-specific
+mortality for 282 causes of death in 195 countries and territories, 1980--2017: a systematic analysis for the
+Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 1736--88.
+
+%\end{revnumerate}
+%\newpage
+\bigskip
+
+\marginhead{\sffamily {\vskip 0.5em} conference \newline presentations}
+\medskip
+
+\ind {\minbold Gardner WM} and Kassebaum NJ. \href{https://doi.org/10.1093/cdn/nzaa053_035}{"Global, Regional, and National Prevalence of Anemia and Its
+Causes in 204 Countries and Territories, 1990--2019."} American Society for Nutrition Annual Conference, 2020. (Finalist for Emerging 
+Leaders in Nutrition Science Award))
+
+\ind {\minbold Gardner WM} and Kassebaum NJ. \href{https://doi.org/10.1093/cdn/nzaa054_064}{"Global, Regional, and National Prevalence and Trends in Infant Breastfeeding Status in 204 Countries and Territories, 1990--2019."} 
+American Society for Nutrition Annual Conference, 2020.
+
+\ind {\minbold Gardner WM} and Kassebaum NJ. "Global, Regional, and National Coverage of Maternal Care
+Interventions." Society for Pediatric and Perinatal Epidemiology Annual Conference, 2020. 
+
+\bigskip
+
+\marginhead{\sffamily {\vskip 0.5em} professional \newline organizations}
+\medskip
+
+\ind Society for Pediatric and Perinatal Epidemiology \hfill 2019 -- present
+
+\ind American Society for Nutrition \hfill 2019 -- present
+
+\ind WHO scientific advisory group for \emph{Group B Streptococcus} vaccine value proposition \hfill 2019 -- 2022
+
+\bigskip
+
+\marginhead{\sffamily {\vskip 0.6em}honors \newline \& awards}
+\medskip
+
+\ind Emerging Leaders in Nutrition Science Award, American Society for Nutrition (finalist) \hfill 2020
+
+\ind Phi Beta Kappa \hfill 2017
+
+\ind David McCord Prize (Harvard University) \hfill 2017
+
+\ind John Harvard Scholar \hfill 2016 -- 2017
+
+\ind Cordeiro Health Policy Summer Research Fellowship \hfill 2016
+
+\ind Sales Prize for Best Undergraduate Composition in Spanish (Harvard University) \hfill 2016
+
+\bigskip
+
+\end{document}
