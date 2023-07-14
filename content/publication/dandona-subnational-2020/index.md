@@ -6,99 +6,11 @@ title: 'Subnational mapping of under-5 and neonatal mortality trends in India: t
 subtitle: ''
 summary: ''
 authors:
-- Rakhi Dandona
-- G. Anil Kumar
-- Nathaniel J. Henry
-- Vasna Joshua
-- Siddarth Ramji
-- Subodh S. Gupta
-- Deepti Agrawal
-- Rashmi Kumar
-- Rakesh Lodha
-- Matthews Mathai
-- Nicholas J. Kassebaum
-- Anamika Pandey
-- Haidong Wang
-- Anju Sinha
-- Rajkumar Hemalatha
-- Rizwan S. Abdulkader
-- Vivek Agarwal
-- Sandra Albert
-- Atanu Biswas
-- Roy Burstein
-- Joy K. Chakma
-- D. J. Christopher
-- Michael Collison
-- A. P. Dash
-- Sagnik Dey
-- Daniel Dicker
-- William Gardner
-- Scott D. Glenn
-- Mahaveer J. Golechha
-- Yihua He
-- Suparna G. Jerath
-- Rajni Kant
-- Anita Kar
-- Ajay K. Khera
-- Sanjay Kinra
-- Parvaiz A. Koul
-- Varsha Krish
-- Rinu P. Krishnankutty
-- Anura V. Kurpad
-- Hmwe H. Kyu
-- Avula Laxmaiah
-- Jagadish Mahanta
-- P. A. Mahesh
-- Ridhima Malhotra
-- Raja S. Mamidi
-- Helena Manguerra
-- Joseph L. Mathew
-- Manu R. Mathur
-- Ravi Mehrotra
-- Satinath Mukhopadhyay
-- G. V. S. Murthy
-- Parul Mutreja
-- Balakrishna Nagalla
-- Grant Nguyen
-- Anu M. Oommen
-- Ashalata Pati
-- Sanghamitra Pati
-- Samantha Perkins
-- Sanjay Prakash
-- Manorama Purwar
-- Rajesh Sagar
-- Mari J. Sankar
-- Deepika S. Saraf
-- D. K. Shukla
-- Sharvari R. Shukla
-- Narinder P. Singh
-- V. Sreenivas
-- Babasaheb Tandale
-- Kavumpurathu R. Thankappan
-- Manjari Tripathi
-- Suryakant Tripathi
-- Srikanth Tripathy
-- Christopher Troeger
-- Chris M. Varghese
-- Santosh Varughese
-- Stefanie Watson
-- Geetika Yadav
-- Sanjay Zodpey
-- K. Srinath Reddy
-- G. S. Toteja
-- Mohsen Naghavi
-- Stephen S. Lim
-- Theo Vos
-- Hendrik J. Bekedam
-- Soumya Swaminathan
-- Christopher J. L. Murray
-- Simon I. Hay
-- R. S. Sharma
-- Lalit Dandona
+- India State-Level Disease Burden Initiative Child Mortality Collaborators
 tags: []
 categories: []
 date: '2020-05-01'
-lastmod: 2023-07-13T03:03:14-05:00
+lastmod: 2023-07-14T02:11:42-05:00
 featured: false
 draft: false
 
@@ -116,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-13T08:03:14.718385Z'
+publishDate: '2023-07-14T07:11:42.357867Z'
 publication_types:
 - '2'
 abstract: ''

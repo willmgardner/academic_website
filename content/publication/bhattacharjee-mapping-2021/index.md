@@ -5,17 +5,15 @@ title: Mapping inequalities in exclusive breastfeeding in low- and middle-income
   2000–2018
 subtitle: ''
 summary: ''
-authors:
-- Natalia V. Bhattacharjee
-- Lauren E. Schaeffer
-- Simon I. Hay
+authors: 
+- Local Burden of Disease Exclusive Breastfeeding Collaborators 
 tags:
 - Developing world
 - Nutrition disorders
 - Risk factors
 categories: []
 date: '2021-08-01'
-lastmod: 2023-07-13T03:03:13-05:00
+lastmod: 2023-07-14T02:11:41-05:00
 featured: false
 draft: false
 
@@ -33,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-13T08:03:13.856972Z'
+publishDate: '2023-07-14T07:11:40.919592Z'
 publication_types:
 - '2'
 abstract: Exclusive breastfeeding (EBF)—giving infants only breast-milk for the first

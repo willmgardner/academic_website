@@ -1,12 +1,13 @@
 ---
 # Display name
-title: Will Gardner
+title: "Will Gardner"
 
 # Is this the primary user of the site?
 superuser: true
+highlight_name: true
 
 # Role/position/tagline
-role: "Research Scientist"
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,9 +60,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/willmgardner/
-- icon: cv
-  icon_pack: ai
-  link: uploads/wmg_vita.pdf #static/uploads/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: uploads/wmg_vita.pdf #static/uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a researcher on the [Global Burden of Disease Study](https://www.healthdata.org/gbd) at the [Institute for Health Metrics and Evaluation](https://www.heatlthdata.org) and a second year medical student at Columbia University. I conduct research in the areas of global maternal and child health, respiratory epidemiology, health systems performance and evaluation, and health metrics.
+I'm a researcher on the [Global Burden of Disease Study](https://www.healthdata.org/gbd) at the [Institute for Health Metrics and Evaluation](https://www.heatlthdata.org) and a second year medical student at [Columbia University](https://www.vagelos.columbia.edu). I conduct research in the areas of global maternal and child health, respiratory epidemiology, health systems performance and evaluation, and health metrics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wmg_vita.pdf" "newtab" >}}CV{{< /staticref >}}.

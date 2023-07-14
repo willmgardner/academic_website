@@ -5,11 +5,13 @@ title: Global, Regional, and National Prevalence of Anemia and Its Causes in 204
   and Territories, 1990–2019
 subtitle: ''
 summary: ''
-authors: ["**William M. Gardner**","Nicholas J. Kassebaum"]
+authors:
+- WM Gardner
+- NJ Kassebaum
 tags: []
 categories: []
 date: '2020-06-01'
-lastmod: 2023-07-13T03:03:16-05:00
+lastmod: 2023-07-14T02:11:45-05:00
 featured: false
 draft: false
 
@@ -27,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-13T08:03:16.422745Z'
+publishDate: '2023-07-14T07:11:44.775962Z'
 publication_types:
-- '2'
+- '1'
 abstract: 'Objectives To estimate the total prevalence of anemia by severity and quantify
   the contribution attributable to 35 underlying causes for 204 countries and territories
   by age and sex from 1990 to 2019. Methods We conducted a systematic review for data

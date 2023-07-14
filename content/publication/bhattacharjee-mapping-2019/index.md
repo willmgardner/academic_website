@@ -5,55 +5,55 @@ title: Mapping exclusive breastfeeding in Africa between 2000 and 2017
 subtitle: ''
 summary: ''
 authors:
-- Natalia V. Bhattacharjee
-- Lauren E. Schaeffer
-- Laurie B. Marczak
-- Jennifer M. Ross
-- Scott J. Swartz
-- James Albright
-- William M. Gardner
-- Chloe Shields
-- Amber Sligar
-- Megan F. Schipp
-- Brandon V. Pickering
-- Nathaniel J. Henry
-- Kimberly B. Johnson
-- Celia Louie
-- Michael A. Cork
-- Krista M. Steuben
-- Alice Lazzar-Atwood
-- Dan Lu
-- Damaris K. Kinyoki
-- Aaron Osgood-Zimmerman
-- Lucas Earl
-- Jonathan F. Mosser
-- Aniruddha Deshpande
-- Roy Burstein
-- Lauren P. Woyczynski
-- Katherine F. Wilson
-- John D. VanderHeide
-- Kirsten E. Wiens
-- Robert C. Reiner
-- Ellen G. Piwoz
-- Rahul Rawat
-- Benn Sartorius
-- Nicole Davis Weaver
-- Molly R. Nixon
-- David L. Smith
-- Nicholas J. Kassebaum
-- Emmanuela Gakidou
-- Stephen S. Lim
-- Ali H. Mokdad
-- Christopher J. L. Murray
-- Laura Dwyer-Lindgren
-- Simon I. Hay
+- NV Bhattacharjee
+- LE Schaeffer
+- LB Marczak
+- JM Ross
+- SJ Swartz
+- J Albright
+- WM Gardner
+- C Shields
+- A Sligar
+- MF Schipp
+- BV Pickering
+- NJ Henry
+- KB Johnson
+- C Louie
+- MA Cork
+- KM Steuben
+- A Lazzar-Atwood
+- D Lu
+- DK Kinyoki
+- A Osgood-Zimmerman
+- L Earl
+- JF Mosser
+- A Deshpande
+- R Burstein
+- LP Woyczynski
+- KF Wilson
+- JD VanderHeide
+- KE Wiens
+- RC Reiner
+- EG Piwoz
+- R Rawat
+- B Sartorius
+- ND Weaver
+- MR Nixon
+- DL Smith
+- NJ Kassebaum
+- E Gakidou
+- SS Lim
+- AH Mokdad
+- CJL Murray
+- L Dwyer-Lindgren
+- SI Hay
 tags:
 - Paediatrics
 - Public health
 - Risk factors
 categories: []
 date: '2019-08-01'
-lastmod: 2023-07-13T03:03:15-05:00
+lastmod: 2023-07-14T02:11:43-05:00
 featured: false
 draft: false
 
@@ -71,7 +71,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-13T08:03:15.345252Z'
+publishDate: '2023-07-14T07:11:43.326507Z'
 publication_types:
 - '2'
 abstract: Exclusive breastfeeding (EBF)—giving infants only breast-milk (and medications,

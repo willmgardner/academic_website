@@ -6,23 +6,23 @@ title: Current dichotomous metrics obscure trends in severe and extreme child gr
 subtitle: ''
 summary: ''
 authors:
-- Ryan Fitzgerald
-- Helena Manguerra
-- Michael B. Arndt
-- William M. Gardner
-- Ya-Yin Chang
-- Bethany Zigler
-- Heather Jean Taylor
-- Kelly Bienhoff
-- David L. Smith
-- Christopher J. L. Murray
-- Simon I. Hay
-- Robert C. Reiner
-- Nicholas J. Kassebaum
+- R Fitzgerald
+- H Manguerra
+- MB Arndt
+- WM Gardner
+- Y Chang
+- B Zigler
+- HJ Taylor
+- K Bienhoff
+- DL Smith
+- CJL Murray
+- SI Hay
+- RC Reiner
+- NJ Kassebaum
 tags: []
 categories: []
 date: '2022-05-01'
-lastmod: 2023-07-13T03:03:13-05:00
+lastmod: 2023-07-14T02:11:40-05:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-13T08:03:13.546587Z'
+publishDate: '2023-07-14T07:11:40.547291Z'
 publication_types:
 - '2'
 abstract: Historically, the prevalence of child growth failure (CGF) has been tracked

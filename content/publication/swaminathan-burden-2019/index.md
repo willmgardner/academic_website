@@ -6,74 +6,11 @@ title: 'The burden of child and maternal malnutrition and trends in its indicato
 subtitle: ''
 summary: ''
 authors:
-- Soumya Swaminathan
-- Rajkumar Hemalatha
-- Anamika Pandey
-- Nicholas J. Kassebaum
-- Avula Laxmaiah
-- Thingnganing Longvah
-- Rakesh Lodha
-- Siddarth Ramji
-- G. Anil Kumar
-- Ashkan Afshin
-- Subodh S. Gupta
-- Anita Kar
-- Ajay K. Khera
-- Matthews Mathai
-- Shally Awasthi
-- Reeta Rasaily
-- Chris M. Varghese
-- Anoushka I. Millear
-- Helena Manguerra
-- William M. Gardner
-- Reed Sorenson
-- Mari J. Sankar
-- Manorama Purwar
-- Melissa Furtado
-- Priyanka G. Bansal
-- Ryan Barber
-- Joy K. Chakma
-- Julian Chalek
-- Supriya Dwivedi
-- Nancy Fullman
-- Brahmam N. Ginnela
-- Scott D. Glenn
-- William Godwin
-- Zaozianlungliu Gonmei
-- Rachita Gupta
-- Suparna G. Jerath
-- Rajni Kant
-- Varsha Krish
-- Rachakulla H. Kumar
-- Laishram Ladusingh
-- Indrapal I. Meshram
-- Parul Mutreja
-- Balakrishna Nagalla
-- Arlappa Nimmathota
-- Christopher M. Odell
-- Helen E. Olsen
-- Ashalata Pati
-- Brandon Pickering
-- Kankipati V. Radhakrishna
-- Neena Raina
-- Zane Rankin
-- Deepika Saraf
-- R. S. Sharma
-- Anju Sinha
-- Bhaskar Varanasi
-- Chander Shekhar
-- Hendrik J. Bekedam
-- K. Srinath Reddy
-- Stephen S. Lim
-- Simon I. Hay
-- Rakhi Dandona
-- Christopher J. L. Murray
-- G. S. Toteja
-- Lalit Dandona
+- India State-Level Disease Burden Initiative Malnutrition Collaborators
 tags: []
 categories: []
 date: '2019-12-01'
-lastmod: 2023-07-13T03:03:15-05:00
+lastmod: 2023-07-14T02:11:43-05:00
 featured: false
 draft: false
 
@@ -91,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-13T08:03:15.200056Z'
+publishDate: '2023-07-14T07:11:43.050125Z'
 publication_types:
 - '2'
 abstract: ''

@@ -6,93 +6,40 @@ title: 'Group B streptococcus infection during pregnancy and infancy: estimates 
 subtitle: ''
 summary: ''
 authors:
-- Bronner P. Gonçalves
-- Simon R. Procter
-- Proma Paul
-- Jaya Chandna
-- Alexandra Lewin
-- Farah Seedat
-- Artemis Koukounari
-- Ziyaad Dangor
-- Shannon Leahy
-- Sridhar Santhanam
-- Hima B. John
-- Justina Bramugy
-- Azucena Bardají
-- Amina Abubakar
-- Carophine Nasambu
-- Romina Libster
-- Clara Sánchez Yanotti
-- Erzsébet Horváth-Puhó
-- Henrik T. Sørensen
-- Diederik van de Beek
-- Merijn W. Bijlsma
-- William M. Gardner
-- Nicholas Kassebaum
-- Caroline Trotter
-- Quique Bassat
-- Shabir A. Madhi
-- Philipp Lambach
-- Mark Jit
-- Joy E. Lawn
-- Kirstine K. Søgaard
-- Merel N. van Kassel
-- Linde Snoek
-- Brechje de Gier
-- Arie van der Ende
-- Susan J. M. Hahné
-- Lois M. Harden
-- Azra Ghoor
-- Sibongile Mbatha
-- Sarah Lowick
-- Barbara Laughton
-- Tamara Jaye
-- Sanjay G. Lala
-- Pamela Sithole
-- Jacqueline Msayi
-- Ntombifuthi Kumalo
-- Tshepiso Nompumelelo Msibi
-- Asha Arumugam
-- Nandhini Murugesan
-- Nandhini Rajendraprasad
-- Mohana Priya
-- Adam Mabrouk
-- Patrick Vidzo Katana
-- Eva Mwangome
-- Charles R. Newton
-- Humberto Mucasse
-- Celine Aerts
-- Sergio Massora
-- Valeria Medina
-- Andrea Rojas
-- Daniel Amado
-- Conrado J. Llapur
-- A. K. M. Tanvir Hossain
-- Qazi Sadeq-ur Rahman
-- Margaret Ip
-- Anna Seale
-- Paul T. Heath
-- Kirsty Le Doare
-- Asma Khalil
-- Stephanie J. Schrag
-- Ajoke Sobanjo-ter Meulen
-- Elizabeth Mason
-- Dianna M. Blau
-- Shams El Arifeen
-- Nega Assefa
-- Dickens Onyango
-- Samba O. Sow
-- Inacio Mandomando
-- Ikechukwu Ogbuanu
-- Karen L. Kotloff
-- J. Anthony G. Scott
-- Emily S. Gurley
-- Beth A. Tippet Barr
-- Sana Mahtab
+- BP Gonçalves
+- SR Procter
+- P Paul
+- J Chandna
+- A Lewin
+- F Seedat
+- A Koukounari
+- Z Dangor
+- S Leahy
+- S Santhanam
+- HB John
+- J Bramugy
+- A Bardají
+- A Abubakar
+- C Nasambu
+- R Libster
+- C Yanotti
+- E Horváth-Puhó
+- HT Sørensen
+- D van de Beek
+- MW Bijlsma
+- WM Gardner
+- NJ Kassebaum
+- C Trotter
+- Q Bassat
+- SA Madhi
+- P Lambach
+- M Jit
+- JE Lawn
+
 tags: []
 categories: []
 date: '2022-06-01'
-lastmod: 2023-07-13T03:03:13-05:00
+lastmod: 2023-07-14T02:11:40-05:00
 featured: false
 draft: false
 
@@ -110,7 +57,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-13T08:03:13.404379Z'
+publishDate: '2023-07-14T07:11:40.397384Z'
 publication_types:
 - '2'
 abstract: ''

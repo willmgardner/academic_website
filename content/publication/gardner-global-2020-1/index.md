@@ -6,12 +6,12 @@ title: Global, Regional, and National Prevalence and Trends in Infant Breastfeed
 subtitle: ''
 summary: ''
 authors:
-- William Gardner
-- Nicholas Kassebaum
+- WM Gardner
+- NJ Kassebaum
 tags: []
 categories: []
 date: '2020-06-01'
-lastmod: 2023-07-13T03:03:16-05:00
+lastmod: 2023-07-14T02:11:45-05:00
 featured: false
 draft: false
 
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-13T08:03:16.570049Z'
+publishDate: '2023-07-14T07:11:45.128276Z'
 publication_types:
-- '2'
+- '1'
 abstract: Objectives To estimate prevalence of breastfeeding (exclusive, predominant,
   partial, and none) and trends for infants under six months of age for 204 countries
   and territories from 1990 to 2019. Methods We conducted a systematic review for
