@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "William M. Gardner"
+title: William M. Gardner
 
 # Is this the primary user of the site?
 superuser: false

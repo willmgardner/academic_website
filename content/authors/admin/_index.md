@@ -21,7 +21,7 @@ bio: My research interests include global child health, respiratory epidemiology
 
 # Interests to show in About widget
 interests:
-- Global Maternal & Child Health 
+- Global Maternal and Child Health 
 - Respiratory Epidemiology
 - Health Metrics and Statistical Modeling
 - Comparative Health Systems Evaluation

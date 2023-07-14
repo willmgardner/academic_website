@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "WM Gardner"
+title: WM Gardner
 
 # Is this the primary user of the site?
 superuser: false
