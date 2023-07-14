@@ -1,0 +1,468 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Assessing performance of the Healthcare Access and Quality Index, overall
+  and by select age groups, for 204 countries and territories, 1990–2019: a systematic
+  analysis from the Global Burden of Disease Study 2019'
+subtitle: ''
+summary: ''
+authors:
+- Annie Haakenstad
+- Jamal Akeem Yearwood
+- Nancy Fullman
+- Corinne Bintz
+- Kelly Bienhoff
+- Marcia R. Weaver
+- Vishnu Nandakumar
+- Jonah N. Joffe
+- Kate E. LeGrand
+- Megan Knight
+- Cristiana Abbafati
+- Mohsen Abbasi-Kangevari
+- Amir Abdoli
+- Roberto Ariel Abeldaño Zuñiga
+- Isaac Akinkunmi Adedeji
+- Victor Adekanmbi
+- Olatunji O. Adetokunboh
+- Muhammad Sohail Afzal
+- Saira Afzal
+- Marcela Agudelo-Botero
+- Bright Opoku Ahinkorah
+- Sajjad Ahmad
+- Ali Ahmadi
+- Sepideh Ahmadi
+- Ali Ahmed
+- Tarik Ahmed Rashid
+- Budi Aji
+- Wuraola Akande-Sholabi
+- Khurshid Alam
+- Hanadi Al Hamad
+- Robert Kaba Alhassan
+- Liaqat Ali
+- Vahid Alipour
+- Syed Mohamed Aljunid
+- Edward Kwabena Ameyaw
+- Tarek Tawfik Amin
+- Hubert Amu
+- Dickson A. Amugsi
+- Robert Ancuceanu
+- Pedro Prata Andrade
+- Afifa Anjum
+- Jalal Arabloo
+- Morteza Arab-Zozani
+- Hany Ariffin
+- Judie Arulappan
+- Zahra Aryan
+- Tahira Ashraf
+- Desta Debalkie Atnafu
+- Alok Atreya
+- Marcel Ausloos
+- Leticia Avila-Burgos
+- Getinet Ayano
+- Martin Amogre Ayanore
+- Samad Azari
+- Ashish D. Badiye
+- Atif Amin Baig
+- Mohan Bairwa
+- Shankar M. Bakkannavar
+- Shrikala Baliga
+- Palash Chandra Banik
+- Till Winfried Bärnighausen
+- Fabio Barra
+- Amadou Barrow
+- Sanjay Basu
+- Mohsen Bayati
+- Rebuma Belete
+- Arielle Wilder Bell
+- Devidas S. Bhagat
+- Akshaya Srikanth Bhagavathula
+- Pankaj Bhardwaj
+- Nikha Bhardwaj
+- Sonu Bhaskar
+- Krittika Bhattacharyya
+- Zulfiqar A. Bhutta
+- Sadia Bibi
+- Ali Bijani
+- Boris Bikbov
+- Antonio Biondi
+- Obasanjo Afolabi Bolarinwa
+- Aime Bonny
+- Hermann Brenner
+- Danilo Buonsenso
+- Katrin Burkart
+- Reinhard Busse
+- Zahid A. Butt
+- Nadeem Shafique Butt
+- Florentino Luciano Caetano dos Santos
+- Lucero Cahuana-Hurtado
+- Luis Alberto Cámera
+- Rosario Cárdenas
+- Vera L. A. Carneiro
+- Ferrán Catalá-López
+- Joht Singh Chandan
+- Jaykaran Charan
+- Prachi P. Chavan
+- Simiao Chen
+- Shu Chen
+- Sonali Gajanan Choudhari
+- Enayet Karim Chowdhury
+- Mohiuddin Ahsanul Kabir Chowdhury
+- Massimo Cirillo
+- Barbara Corso
+- Omid Dadras
+- Saad M. A. Dahlawi
+- Xiaochen Dai
+- Lalit Dandona
+- Rakhi Dandona
+- William James Dangel
+- Claudio Alberto Dávila-Cervantes
+- Kairat Davletov
+- Keshab Deuba
+- Meghnath Dhimal
+- Mandira Lamichhane Dhimal
+- Shirin Djalalinia
+- Huyen Phuc Do
+- Leila Doshmangir
+- Bruce B. Duncan
+- Andem Effiong
+- Elham Ehsani-Chimeh
+- Islam Y. Elgendy
+- Muhammed Elhadi
+- Iman El Sayed
+- Maha El Tantawi
+- Daniel Asfaw Erku
+- Sharareh Eskandarieh
+- Jawad Fares
+- Farshad Farzadfar
+- Simone Ferrero
+- Lorenzo Ferro Desideri
+- Florian Fischer
+- Nataliya A. Foigt
+- Masoud Foroutan
+- Takeshi Fukumoto
+- Peter Andras Gaal
+- Santosh Gaihre
+- William M. Gardner
+- Tushar Garg
+- Abera Getachew Obsa
+- Mansour Ghafourifard
+- Ahmad Ghashghaee
+- Nermin Ghith
+- Syed Amir Gilani
+- Paramjit Singh Gill
+- Salime Goharinezhad
+- Mahaveer Golechha
+- Jenny S. Guadamuz
+- Yuming Guo
+- Rajat Das Gupta
+- Rajeev Gupta
+- Vivek Kumar Gupta
+- Veer Bala Gupta
+- Mohammad Hamiduzzaman
+- Asif Hanif
+- Josep Maria Haro
+- Ahmed I. Hasaballah
+- Md Mehedi Hasan
+- M. Tasdik Hasan
+- Abdiwahab Hashi
+- Simon I. Hay
+- Khezar Hayat
+- Mohammad Heidari
+- Golnaz Heidari
+- Nathaniel J. Henry
+- Claudiu Herteliu
+- Ramesh Holla
+- Sahadat Hossain
+- Sheikh Jamal Hossain
+- Mohammad Bellal Hossain Hossain
+- Mehdi Hosseinzadeh
+- Sorin Hostiuc
+- Soodabeh Hoveidamanesh
+- Vivian Chia-rong Hsieh
+- Guoqing Hu
+- Junjie Huang
+- M. Mamun Huda
+- Susan C. Ifeagwu
+- Kevin S. Ikuta
+- Olayinka Stephen Ilesanmi
+- Seyed Sina Naghibi Irvani
+- Rakibul M. Islam
+- Sheikh Mohammed Shariful Islam
+- Nahlah Elkudssiah Ismail
+- Hiroyasu Iso
+- Gaetano Isola
+- Ramaiah Itumalla
+- Masao Iwagami
+- Mohammad Ali Jahani
+- Nader Jahanmehr
+- Rajesh Jain
+- Mihajlo Jakovljevic
+- Manthan Dilipkumar Janodia
+- Sathish Kumar Jayapal
+- Shubha Jayaram
+- Ravi Prakash Jha
+- Jost B. Jonas
+- Tamas Joo
+- Nitin Joseph
+- Mikk Jürisson
+- Ali Kabir
+- Leila R. Kalankesh
+- Rohollah Kalhor
+- Aruna M. Kamath
+- Kaloyan Kamenov
+- Himal Kandel
+- Rami S. Kantar
+- Neeti Kapoor
+- Marina Karanikolos
+- Srinivasa Vittal Katikireddi
+- Taras Kavetskyy
+- Norito Kawakami
+- Gbenga A. Kayode
+- Leila Keikavoosi-Arani
+- Mohammad Keykhaei
+- Yousef Saleh Khader
+- Himanshu Khajuria
+- Rovshan Khalilov
+- Mohammad Khammarnia
+- Md Nuruzzaman Khan
+- Moien AB Khan
+- Maseer Khan
+- Mehdi Khezeli
+- Min Seo Kim
+- Yun Jin Kim
+- Sezer Kisa
+- Adnan Kisa
+- Vitalii Klymchuk
+- Kamrun Nahar Koly
+- Oleksii Korzh
+- Soewarta Kosen
+- Parvaiz A. Koul
+- Barthelemy Kuate Defo
+- G. Anil Kumar
+- Dian Kusuma
+- Hmwe Hmwe Kyu
+- Anders O. Larsson
+- Savita Lasrado
+- Wei-Chen Lee
+- Yo Han Lee
+- Chiachi Bonnie Lee
+- Shanshan Li
+- Giancarlo Lucchetti
+- Preetam Bhalchandra Mahajan
+- Azeem Majeed
+- Alaa Makki
+- Reza Malekzadeh
+- Ahmad Azam Malik
+- Deborah Carvalho Malta
+- Mohammad Ali Mansournia
+- Lorenzo Giovanni Mantovani
+- Adolfo Martinez-Valle
+- Francisco Rogerlândio Martins-Melo
+- Seyedeh Zahra Masoumi
+- Manu Raj Mathur
+- Richard James Maude
+- Pallab K. Maulik
+- Martin McKee
+- Walter Mendoza
+- Ritesh G. Menezes
+- George A. Mensah
+- Atte Meretoja
+- Tuomo J. Meretoja
+- Tomislav Mestrovic
+- Irmina Maria Michalek
+- Erkin M. Mirrakhimov
+- Awoke Misganaw
+- Sanjeev Misra
+- Babak Moazen
+- Mokhtar Mohammadi
+- Shafiu Mohammed
+- Modhurima Moitra
+- Ali H. Mokdad
+- Mariam Molokhia
+- Lorenzo Monasta
+- Mohammad Ali Moni
+- Ghobad Moradi
+- Rafael Silveira Moreira
+- Jonathan F. Mosser
+- Ebrahim Mostafavi
+- Simin Mouodi
+- Ahamarshan Jayaraman Nagarajan
+- Chie Nagata
+- Mohsen Naghavi
+- Vinay Nangia
+- Sreenivas Narasimha Swamy
+- Aparna Ichalangod Narayana
+- Bruno Ramos Nascimento
+- Hasan Nassereldine
+- Biswa Prakash Nayak
+- Javad Nazari
+- Ionut Negoi
+- Samata Nepal
+- Sandhya Neupane Kandel
+- Josephine W. Ngunjiri
+- Huong Lan Thi Nguyen
+- Cuong Tat Nguyen
+- Dina Nur Anggraini Ningrum
+- Jean Jacques Noubiap
+- Bogdan Oancea
+- Onome Bright Oghenetega
+- In-Hwan Oh
+- Andrew T. Olagunju
+- Babayemi Oluwaseun Olakunde
+- Ahmed Omar Bali
+- Emad Omer
+- Obinna E. Onwujekwe
+- Adrian Otoiu
+- Jagadish Rao Padubidri
+- Raffaele Palladino
+- Adrian Pana
+- Songhomitra Panda-Jonas
+- Seithikurippu R. Pandi-Perumal
+- Shahina Pardhan
+- Deepak Kumar Pasupula
+- Praveen Kumar Pathak
+- George C. Patton
+- Shrikant Pawar
+- Jeevan Pereira
+- Manju Pilania
+- Bakhtiar Piroozi
+- Vivek Podder
+- Khem Narayan Pokhrel
+- Maarten J. Postma
+- Sergio I. Prada
+- Zahiruddin Quazi Syed
+- Navid Rabiee
+- Raghu Anekal Radhakrishnan
+- Md Mosfequr Rahman
+- Mosiur Rahman
+- Mahfuzar Rahman
+- Mohammad Hifz Ur Rahman
+- Amir Masoud Rahmani
+- Chhabi Lal Ranabhat
+- Chythra R. Rao
+- Sowmya J. Rao
+- Davide Rasella
+- Salman Rawaf
+- David Laith Rawaf
+- Lal Rawal
+- Andre M. N. Renzaho
+- Bhageerathy Reshmi
+- Serge Resnikoff
+- Aziz Rezapour
+- Seyed Mohammad Riahi
+- Rezaul Karim Ripon
+- Simona Sacco
+- Masoumeh Sadeghi
+- Umar Saeed
+- Amirhossein Sahebkar
+- Biniyam Sahiledengle
+- Harihar Sahoo
+- Maitreyi Sahu
+- Joseph S. Salama
+- Payman Salamati
+- Abdallah M. Samy
+- Juan Sanabria
+- Milena M. Santric-Milicevic
+- Brijesh Sathian
+- Monika Sawhney
+- Maria Inês Schmidt
+- Abdul-Aziz Seidu
+- Sadaf G. Sepanlou
+- Allen Seylani
+- Masood Ali Shaikh
+- Aziz Sheikh
+- Adithi Shetty
+- Mika Shigematsu
+- Rahman Shiri
+- K. M. Shivakumar
+- Azad Shokri
+- Jasvinder A. Singh
+- Dhirendra Narain Sinha
+- Valentin Yurievich Skryabin
+- Anna Aleksandrovna Skryabina
+- Ahmad Sofi-Mahmudi
+- Raúl A. R. C. Sousa
+- Jacqueline H. Stephens
+- Jing Sun
+- Miklós Szócska
+- Rafael Tabarés-Seisdedos
+- Hooman Tadbiri
+- Animut Tagele Tamiru
+- Kavumpurathu Raman Thankappan
+- Roman Topor-Madry
+- Marcos Roberto Tovani-Palone
+- Mai Thi Ngoc Tran
+- Bach Xuan Tran
+- Niharika Tripathi
+- Jaya Prasad Tripathy
+- Christopher E. Troeger
+- Deinzel Robles Uezono
+- Saif Ullah
+- Anayat Ullah
+- Bhaskaran Unnikrishnan
+- Marco Vacante
+- Sahel Valadan Tahbaz
+- Pascual R. Valdez
+- Milena Vasic
+- Massimiliano Veroux
+- Dominique Vervoort
+- Francesco S. Violante
+- Sergey Konstantinovitch Vladimirov
+- Vasily Vlassov
+- Bay Vo
+- Yasir Waheed
+- Richard G. Wamai
+- Yuan-Pang Wang
+- Yanzhong Wang
+- Paul Ward
+- Taweewat Wiangkham
+- Lalit Yadav
+- Seyed Hossein Yahyazadeh Jabbari
+- Kazumasa Yamagishi
+- Sanni Yaya
+- Vahid Yazdi-Feyzabadi
+- Siyan Yi
+- Vahit Yiğit
+- Naohiro Yonemoto
+- Mustafa Z. Younis
+- Chuanhua Yu
+- Ismaeel Yunusa
+- Sojib Bin Zaman
+- Mikhail Sergeevich Zastrozhin
+- Zhi-Jiang Zhang
+- Chenwen Zhong
+- Yves Miel H. Zuniga
+- Stephen S. Lim
+- Christopher J. L. Murray
+- Rafael Lozano
+tags: []
+categories: []
+date: '2022-12-01'
+lastmod: 2023-07-13T03:03:13-05:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-13T08:03:13.097314Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*The Lancet Global Health*'
+doi: 10.1016/S2214-109X(22)00429-6
+links:
+- name: URL
+  url: https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(22)00429-6/fulltext
+---

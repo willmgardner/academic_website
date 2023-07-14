@@ -1,0 +1,648 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Age–sex differences in the global burden of lower respiratory infections and
+  risk factors, 1990–2019: results from the Global Burden of Disease Study 2019'
+subtitle: ''
+summary: ''
+authors:
+- Hmwe Hmwe Kyu
+- Avina Vongpradith
+- Sarah Brooke Sirota
+- Amanda Novotney
+- Christopher E. Troeger
+- Matthew C. Doxey
+- Rose G. Bender
+- Jorge R. Ledesma
+- Molly H. Biehl
+- Samuel B. Albertson
+- Joseph Jon Frostad
+- Katrin Burkart
+- Fiona B. Bennitt
+- Jeff T. Zhao
+- William M. Gardner
+- Hailey Hagins
+- Dana Bryazka
+- Regina-Mae Villanueva Dominguez
+- Semagn Mekonnen Abate
+- Michael Abdelmasseh
+- Amir Abdoli
+- Gholamreza Abdoli
+- Aidin Abedi
+- Vida Abedi
+- Tadesse M. Abegaz
+- Hassan Abidi
+- Richard Gyan Aboagye
+- Hassan Abolhassani
+- Yonas Derso Abtew
+- Hiwa Abubaker Ali
+- Eman Abu-Gharbieh
+- Ahmed Abu-Zaid
+- Kidist Adamu
+- Isaac Yeboah Addo
+- Oyelola A. Adegboye
+- Mohammad Adnan
+- Qorinah Estiningtyas Sakilah Adnani
+- Muhammad Sohail Afzal
+- Saira Afzal
+- Bright Opoku Ahinkorah
+- Aqeel Ahmad
+- Araz Ramazan Ahmad
+- Sajjad Ahmad
+- Ali Ahmadi
+- Sepideh Ahmadi
+- Haroon Ahmed
+- Jivan Qasim Ahmed
+- Tarik Ahmed Rashid
+- Mostafa Akbarzadeh-Khiavi
+- Hanadi Al Hamad
+- Luciana Albano
+- Mamoon A. Aldeyab
+- Bezatu Mengistie Alemu
+- Kefyalew Addis Alene
+- Abdelazeem M. Algammal
+- Fadwa Alhalaiqa Naji Alhalaiqa
+- Robert Kaba Alhassan
+- Beriwan Abdulqadir Ali
+- Liaqat Ali
+- Musa Mohammed Ali
+- Syed Shujait Ali
+- Yousef Alimohamadi
+- Vahid Alipour
+- Adel Al-Jumaily
+- Syed Mohamed Aljunid
+- Sami Almustanyir
+- Rajaa M. Al-Raddadi
+- Rami H. Hani Al-Rifai
+- Saif Aldeen S. AlRyalat
+- Nelson Alvis-Guzman
+- Nelson J. Alvis-Zakzuk
+- Edward Kwabena Ameyaw
+- Javad Javad Aminian Dehkordi
+- John H. Amuasi
+- Dickson A. Amugsi
+- Etsay Woldu Anbesu
+- Adnan Ansar
+- Anayochukwu Edward Anyasodor
+- Jalal Arabloo
+- Demelash Areda
+- Ayele Mamo Argaw
+- Zeleke Gebru Argaw
+- Judie Arulappan
+- Raphael Taiwo Aruleba
+- Mulusew A. Asemahagn
+- Seyyed Shamsadin Athari
+- Daniel Atlaw
+- Engi F. Attia
+- Sameh Attia
+- Avinash Aujayeb
+- Tewachew Awoke
+- Tegegn Mulatu Ayana
+- Martin Amogre Ayanore
+- Sina Azadnajafabad
+- Mohammadreza Azangou-Khyavy
+- Samad Azari
+- Amirhossein Azari Jafari
+- Muhammad Badar
+- Ashish D. Badiye
+- Nayereh Baghcheghi
+- Sara Bagherieh
+- Atif Amin Baig
+- Maciej Banach
+- Indrajit Banerjee
+- Mainak Bardhan
+- Francesco Barone-Adesi
+- Hiba Jawdat Barqawi
+- Amadou Barrow
+- Azadeh Bashiri
+- Quique Bassat
+- Abdul-Monim Mohammad Batiha
+- Abate Bekele Belachew
+- Melaku Ashagrie Belete
+- Uzma Iqbal Belgaumi
+- Akshaya Srikanth Bhagavathula
+- Nikha Bhardwaj
+- Pankaj Bhardwaj
+- Parth Bhatt
+- Vijayalakshmi S. Bhojaraja
+- Zulfiqar A. Bhutta
+- Soumitra S. Bhuyan
+- Ali Bijani
+- Saeid Bitaraf
+- Belay Boda Abule Bodicha
+- Nikolay Ivanovich Briko
+- Danilo Buonsenso
+- Muhammad Hammad Butt
+- Jiao Cai
+- Paulo Camargos
+- Luis Alberto Cámera
+- Promit Ananyo Chakraborty
+- Muluken Genetu Chanie
+- Jaykaran Charan
+- Vijay Kumar Chattu
+- Patrick R. Ching
+- Sungchul Choi
+- Yuen Yu Chong
+- Sonali Gajanan Choudhari
+- Enayet Karim Chowdhury
+- Devasahayam J. Christopher
+- Dinh-Toi Chu
+- Natalie L. Cobb
+- Aaron J. Cohen
+- Natália Cruz-Martins
+- Omid Dadras
+- Fentaw Teshome Dagnaw
+- Xiaochen Dai
+- Lalit Dandona
+- Rakhi Dandona
+- An Thi Minh Dao
+- Sisay Abebe Debela
+- Biniyam Demisse
+- Fitsum Wolde Demisse
+- Solomon Demissie
+- Diriba Dereje
+- Hardik Dineshbhai Desai
+- Abebaw Alemayehu Desta
+- Belay Desye
+- Sameer Dhingra
+- Nancy Diao
+- Daniel Diaz
+- Lankamo Ena Digesa
+- Linh Phuong Doan
+- Milad Dodangeh
+- Deepa Dongarwar
+- Fariba Dorostkar
+- Wendel Mombaque dos Santos
+- Haneil Larson Dsouza
+- Eleonora Dubljanin
+- Oyewole Christopher Durojaiye
+- Hisham Atan Edinur
+- Elham Ehsani-Chimeh
+- Ebrahim Eini
+- Michael Ekholuenetale
+- Temitope Cyrus Ekundayo
+- Eman D. El Desouky
+- Iman El Sayed
+- Maysaa El Sayed Zaki
+- Muhammed Elhadi
+- Ahmed Mahmoud Rabie Elkhapery
+- Amir Emami
+- Luchuo Engelbert Bain
+- Ryenchindorj Erkhembayar
+- Farshid Etaee
+- Mohamad Ezati Asar
+- Adeniyi Francis Fagbamigbe
+- Shahab Falahi
+- Aida Fallahzadeh
+- Anwar Faraj
+- Emerito Jose A. Faraon
+- Ali Fatehizadeh
+- Pietro Ferrara
+- Allegra Allegra Ferrari
+- Getahun Fetensa
+- Florian Fischer
+- Joanne Flavel
+- Masoud Foroutan
+- Peter Andras Gaal
+- Abhay Motiramji Gaidhane
+- Santosh Gaihre
+- Nasrin Galehdar
+- Alberto L. Garcia-Basteiro
+- Tushar Garg
+- Mesfin Damtew Gebrehiwot
+- Mathewos Alemu Gebremichael
+- Yibeltal Yismaw Gela
+- Belete Negese Belete Gemeda
+- Bradford D. Gessner
+- Melaku Getachew
+- Asmare Getie
+- Seyyed-Hadi Ghamari
+- Mohammad Ghasemi Nour
+- Ahmad Ghashghaee
+- Ali Gholamrezanezhad
+- Abdolmajid Gholizadeh
+- Rakesh Ghosh
+- Sherief Ghozy
+- Pouya Goleij
+- Mohamad Golitaleb
+- Giuseppe Gorini
+- Alessandra C. Goulart
+- Girma Garedew Goyomsa
+- Habtamu Alganeh Guadie
+- Zewdie Gudisa
+- Rashid Abdi Guled
+- Sapna Gupta
+- Veer Bala Gupta
+- Vivek Kumar Gupta
+- Alemu Guta
+- Parham Habibzadeh
+- Arvin Haj-Mirzaian
+- Rabih Halwani
+- Samer Hamidi
+- Md Abdul Hannan
+- Mehdi Harorani
+- Ahmed I. Hasaballah
+- Hamidreza Hasani
+- Abbas M. Hassan
+- Shokoufeh Hassani
+- Hossein Hassanian-Moghaddam
+- Hadi Hassankhani
+- Khezar Hayat
+- Behzad Heibati
+- Mohammad Heidari
+- Demisu Zenbaba Heyi
+- Kamal Hezam
+- Ramesh Holla
+- Sung Hwi Hong
+- Nobuyuki Horita
+- Mohammad-Salar Hosseini
+- Mehdi Hosseinzadeh
+- Mihaela Hostiuc
+- Mowafa Househ
+- Soodabeh Hoveidamanesh
+- Junjie Huang
+- Nawfal R. Hussein
+- Ivo Iavicoli
+- Segun Emmanuel Ibitoye
+- Kevin S. Ikuta
+- Olayinka Stephen Ilesanmi
+- Irena M. Ilic
+- Milena D. Ilic
+- Mustapha Immurana
+- Nahlah Elkudssiah Ismail
+- Masao Iwagami
+- Jalil Jaafari
+- Elham Jamshidi
+- Sung-In Jang
+- Amirreza Javadi Mamaghani
+- Tahereh Javaheri
+- Fatemeh Javanmardi
+- Javad Javidnia
+- Sathish Kumar Jayapal
+- Umesh Jayarajah
+- Shubha Jayaram
+- Alelign Tasew Jema
+- Wonjeong Jeong
+- Jost B. Jonas
+- Nitin Joseph
+- Farahnaz Joukar
+- Jacek Jerzy Jozwiak
+- Vaishali K
+- Zubair Kabir
+- Salah Eddine Oussama Kacimi
+- Vidya Kadashetti
+- Laleh R. Kalankesh
+- Rohollah Kalhor
+- Ashwin Kamath
+- Bhushan Dattatray Kamble
+- Himal Kandel
+- Tesfaye K. Kanko
+- Ibraheem M. Karaye
+- André Karch
+- Samad Karkhah
+- Bekalu Getnet Kassa
+- Patrick DMC Katoto
+- Harkiran Kaur
+- Rimple Jeet Kaur
+- Leila Keikavoosi-Arani
+- Mohammad Keykhaei
+- Yousef Saleh Khader
+- Himanshu Khajuria
+- Ejaz Ahmad Khan
+- Gulfaraz Khan
+- Imteyaz A. Khan
+- Maseer Khan
+- Md Nuruzzaman Khan
+- Moien AB Khan
+- Yusra H. Khan
+- Moawiah Mohammad Khatatbeh
+- Mina Khosravifar
+- Jagdish Khubchandani
+- Min Seo Kim
+- Ruth W. Kimokoti
+- Adnan Kisa
+- Sezer Kisa
+- Niranjan Kissoon
+- Luke D. Knibbs
+- Sonali Kochhar
+- Farzad Kompani
+- Hamid Reza Koohestani
+- Vladimir Andreevich Korshunov
+- Soewarta Kosen
+- Parvaiz A. Koul
+- Ai Koyanagi
+- Kewal Krishan
+- Barthelemy Kuate Defo
+- G. Anil Kumar
+- Om P. Kurmi
+- Ambily Kuttikkattu
+- Dharmesh Kumar Lal
+- Judit Lám
+- Iván Landires
+- Caterina Ledda
+- Sang-woong Lee
+- Miriam Levi
+- Sonia Lewycka
+- Gang Liu
+- Wei Liu
+- Rakesh Lodha
+- László Lorenzovici
+- Mojgan Lotfi
+- Joana A. Loureiro
+- Farzan Madadizadeh
+- Ata Mahmoodpoor
+- Razzagh Mahmoudi
+- Marzieh Mahmoudimanesh
+- Jamal Majidpoor
+- Alaa Makki
+- Elaheh Malakan Rad
+- Ahmad Azam Malik
+- Tauqeer Hussain Mallhi
+- Yosef Manla
+- Clara N. Matei
+- Alexander G. Mathioudakis
+- Richard James Maude
+- Entezar Mehrabi Nasab
+- Addisu Melese
+- Ziad A. Memish
+- Oliver Mendoza-Cano
+- Alexios-Fotios A. Mentis
+- Tuomo J. Meretoja
+- Mehari Woldemariam Merid
+- Tomislav Mestrovic
+- Ana Carolina Micheletti Gomide Nogueira de Sá
+- Gelana Fekadu Worku Mijena
+- Le Huu Nhat Minh
+- Shabir Ahmad Mir
+- Reza Mirfakhraie
+- Seyyedmohammadsadeq Mirmoeeni
+- Agha Zeeshan Mirza
+- Moonis Mirza
+- Mohammad Mirza-Aghazadeh-Attari
+- Abay Sisay Misganaw
+- Awoke Temesgen Misganaw
+- Esmaeil Mohammadi
+- Mokhtar Mohammadi
+- Arif Mohammed
+- Shafiu Mohammed
+- Syam Mohan
+- Mohammad Mohseni
+- Nagabhishek Moka
+- Ali H. Mokdad
+- Sara Momtazmanesh
+- Lorenzo Monasta
+- Md Moniruzzaman
+- Fateme Montazeri
+- Catrin E. Moore
+- Abdolvahab Moradi
+- Lidia Morawska
+- Jonathan F. Mosser
+- Ebrahim Mostafavi
+- Majid Motaghinejad
+- Haleh Mousavi Isfahani
+- Seyed Ali Mousavi-Aghdas
+- Sumaira Mubarik
+- Efrén Murillo-Zamora
+- Ghulam Mustafa
+- Sanjeev Nair
+- Tapas Sadasivan Nair
+- Houshang Najafi
+- Atta Abbas Naqvi
+- Sreenivas Narasimha Swamy
+- Zuhair S. Natto
+- Biswa Prakash Nayak
+- Seyed Aria Nejadghaderi
+- Huy Van Nguyen Nguyen
+- Robina Khan Niazi
+- Antonio Tolentino Nogueira de Sá
+- Hasti Nouraei
+- Ali Nowroozi
+- Virginia Nuñez-Samudio
+- Chimezie Igwegbe Nzoputam
+- Ogochukwu Janet Nzoputam
+- Bogdan Oancea
+- Chimedsuren Ochir
+- Oluwakemi Ololade Odukoya
+- Hassan Okati-Aliabad
+- Akinkunmi Paul Okekunle
+- Osaretin Christabel Okonji
+- Andrew T. Olagunju
+- Isaac Iyinoluwa Olufadewa
+- Ahmed Omar Bali
+- Emad Omer
+- Eyal Oren
+- Erika Ota
+- Nikita Otstavnov
+- Abderrahim Oulhaj
+- Mahesh P. A
+- Jagadish Rao Padubidri
+- Keyvan Pakshir
+- Reza Pakzad
+- Tamás Palicz
+- Anamika Pandey
+- Suman Pant
+- Shahina Pardhan
+- Eun-Cheol Park
+- Eun-Kee Park
+- Fatemeh Pashazadeh Kan
+- Rajan Paudel
+- Shrikant Pawar
+- Minjin Peng
+- Gavin Pereira
+- Simone Perna
+- Navaraj Perumalsamy
+- Ionela-Roxana Petcu
+- David M. Pigott
+- Zahra Zahid Piracha
+- Vivek Podder
+- Roman V. Polibin
+- Maarten J. Postma
+- Hamid Pourasghari
+- Naeimeh Pourtaheri
+- Mirza Muhammad Fahd Qadir
+- Mathieu Raad
+- Mohammad Rabiee
+- Navid Rabiee
+- Saber Raeghi
+- Alireza Rafiei
+- Fakher Rahim
+- Mehran Rahimi
+- Vafa Rahimi-Movaghar
+- Azizur Rahman
+- Md Obaidur Rahman
+- Mosiur Rahman
+- Muhammad Aziz Rahman
+- Amir Masoud Rahmani
+- Vahid Rahmanian
+- Pradhum Ram
+- Kiana Ramezanzadeh
+- Juwel Rana
+- Priyanga Ranasinghe
+- Usha Rani
+- Sowmya J. Rao
+- Sina Rashedi
+- Mohammad-Mahdi Rashidi
+- Azad Rasul
+- Zubair Ahmed Ratan
+- David Laith Rawaf
+- Salman Rawaf
+- Reza Rawassizadeh
+- Mohammad Sadegh Razeghinia
+- Elrashdy Moustafa Mohamed Redwan
+- Marissa B. Reitsma
+- Andre M. N. Renzaho
+- Mohsen Rezaeian
+- Abanoub Riad
+- Reza Rikhtegar
+- Jefferson Antonio Buendia Rodriguez
+- Emma L. B. Rogowski
+- Luca Ronfani
+- Kristina E. Rudd
+- Basema Saddik
+- Erfan Sadeghi
+- Umar Saeed
+- Azam Safary
+- Sher Zaman Safi
+- Maryam Sahebazzamani
+- Amirhossein Sahebkar
+- Sateesh Sakhamuri
+- Sana Salehi
+- Muhammad Salman
+- Hossein Samadi Kafil
+- Abdallah M. Samy
+- Milena M. Santric-Milicevic
+- Bruno Piassi Sao Jose
+- Maryam Sarkhosh
+- Brijesh Sathian
+- Monika Sawhney
+- Ganesh Kumar Saya
+- Abdul-Aziz Seidu
+- Allen Seylani
+- Amira A. Shaheen
+- Masood Ali Shaikh
+- Elaheh Shaker
+- Hina Shamshad
+- Mequannent Melaku Sharew
+- Asaad Sharhani
+- Azam Sharifi
+- Purva Sharma
+- Ali Sheidaei
+- Suchitra M. Shenoy
+- Jeevan K. Shetty
+- Damtew Solomon Shiferaw
+- Mika Shigematsu
+- Jae Il Shin
+- Hesamaddin Shirzad-Aski
+- K. M. Shivakumar
+- Siddharudha Shivalli
+- Parnian Shobeiri
+- Wudneh Simegn
+- Colin R. Simpson
+- Harpreet Singh
+- Jasvinder A. Singh
+- Paramdeep Singh
+- Samarjeet Singh Siwal
+- Valentin Yurievich Skryabin
+- Anna Aleksandrovna Skryabina
+- Mohammad Sadegh Soltani-Zangbar
+- Suhang Song
+- Yimeng Song
+- Prashant Sood
+- Chandrashekhar T. Sreeramareddy
+- Paschalis Steiropoulos
+- Muhammad Suleman
+- Seyed-Amir Tabatabaeizadeh
+- Alireza Tahamtan
+- Majid Taheri
+- Moslem Taheri Soodejani
+- Elahe Taki
+- Iman M. Talaat
+- Mircea Tampa
+- Sarmila Tandukar
+- Nathan Y. Tat
+- Vivian Y. Tat
+- Yibekal Manaye Tefera
+- Gebremaryam Temesgen
+- Mohamad-Hani Temsah
+- Azene Tesfaye
+- Degefa Gomora Tesfaye
+- Belay Tessema
+- Rekha Thapar
+- Jansje Henny Vera Ticoalu
+- Amir Tiyuri
+- Imad I. Tleyjeh
+- Munkhsaikhan Togtmol
+- Marcos Roberto Tovani-Palone
+- Derara Girma Tufa
+- Irfan Ullah
+- Era Upadhyay
+- Sahel Valadan Tahbaz
+- Pascual R. Valdez
+- Rohollah Valizadeh
+- Constantine Vardavas
+- Tommi Juhani Vasankari
+- Bay Vo
+- Linh Gia Vu
+- Birhanu Wagaye
+- Yasir Waheed
+- Yu Wang
+- Abdul Waris
+- T. Eoin West
+- Nuwan Darshana Wickramasinghe
+- Xiaoyue Xu
+- Sajad Yaghoubi
+- Gahin Abdulraheem Tayib Yahya
+- Seyed Hossein Yahyazadeh Jabbari
+- Dong Keon Yon
+- Naohiro Yonemoto
+- Burhan Abdullah Zaman
+- Alireza Zandifar
+- Moein Zangiabadian
+- Heather J. Zar
+- Iman Zare
+- Zahra Zareshahrabadi
+- Armin Zarrintan
+- Mikhail Sergeevich Zastrozhin
+- Wu Zeng
+- Mengxi Zhang
+- Zhi-Jiang Zhang
+- Chenwen Zhong
+- Mohammad Zoladl
+- Alimuddin Zumla
+- Stephen S. Lim
+- Theo Vos
+- Mohsen Naghavi
+- Michael Brauer
+- Simon I. Hay
+- Christopher J. L. Murray
+tags: []
+categories: []
+date: '2022-11-01'
+lastmod: 2023-07-13T03:03:13-05:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-07-13T08:03:13.252656Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*The Lancet Infectious Diseases*'
+doi: 10.1016/S1473-3099(22)00510-2
+links:
+- name: URL
+  url: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00510-2/fulltext
+---
