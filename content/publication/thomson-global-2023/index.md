@@ -14,7 +14,6 @@ date: '2023-06-01'
 lastmod: 2023-07-14T02:11:40-05:00
 featured: true
 draft: false
-url_pdf: "scd_2023.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
