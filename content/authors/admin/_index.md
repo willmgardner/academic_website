@@ -70,7 +70,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+<br /> 
 I'm a researcher on the [Global Burden of Disease Study](https://www.healthdata.org/gbd) at the [Institute for Health Metrics and Evaluation](https://www.heatlthdata.org) and a second year medical student at [Columbia University](https://www.vagelos.columbia.edu). I conduct research in the areas of global maternal and child health, respiratory epidemiology, health systems performance and evaluation, and health metrics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wmg_vita.pdf" "newtab" >}}CV{{< /staticref >}}.

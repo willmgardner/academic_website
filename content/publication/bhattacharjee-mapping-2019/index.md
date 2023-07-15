@@ -56,6 +56,7 @@ date: '2019-08-01'
 lastmod: 2023-07-14T02:11:43-05:00
 featured: false
 draft: false
+url_pdf: "ebf_2019.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -70,7 +71,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['gbd']
 publishDate: '2023-07-14T07:11:43.326507Z'
 publication_types:
 - '2'
