@@ -28,13 +28,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['gbd']
 publishDate: '2023-07-14T07:11:44.775962Z'
 publication_types:
 - '1'
-abstract: 'Objectives To estimate the total prevalence of anemia by severity and quantify
+abstract: 'Objectives: To estimate the total prevalence of anemia by severity and quantify
   the contribution attributable to 35 underlying causes for 204 countries and territories
-  by age and sex from 1990 to 2019. Methods We conducted a systematic review for data
+  by age and sex from 1990 to 2019. 
+  <br /> <br />
+  Methods: We conducted a systematic review for data
   on mean and standard deviation of hemoglobin (Hb) by age and sex. Using a 3-step
   spatio-temporal Gaussian process regression, we estimated mean and standard deviation
   Hb by location, age, and sex from 1990 to 2019. We then calculated the total distribution
@@ -42,7 +44,9 @@ abstract: 'Objectives To estimate the total prevalence of anemia by severity and
   of anemia by severity (mild, moderate, and severe). Finally, using a counterfactual
   analysis, we calculated the portion of total anemia prevalence attributable to 35
   causes using cause-specific Hb shifts, cause prevalence, and the overall Hb distribution
-  for each location, year, age, and sex. Results All ages anemia prevalence was 22.8%
+  for each location, year, age, and sex. 
+  <br /> <br />
+  Results: All ages anemia prevalence was 22.8%
   (95% CI: 22.6–23.1) globally in 2019, a decrease from 27.0% (26.7–27.2) in 1990.
   While prevalence decreased over this time, total cases of anemia increased from
   1.42 (1.41–1.43) billion in 1990 to 1.74 (1.72–1.76) billion in 2019. Prevalence
@@ -52,15 +56,16 @@ abstract: 'Objectives To estimate the total prevalence of anemia by severity and
   for 58.6 (40.14–81.1) million years lived with disability in 2019. The regions with
   the highest burden were Western Sub-Saharan Africa, South Asia, and Central Sub-Saharan
   Africa. The top three contributing causes globally were Dietary iron deficiency,
-  Vitamin A deficiency, and Beta-thalassemia trait, respectively. Conclusions Despite
+  Vitamin A deficiency, and Beta-thalassemia trait, respectively. 
+  <br /> <br />
+  Conclusions: Despite
   reductions in anemia prevalence globally, the burden of anemia remains persistently
   high in many regions. An increased focus on interventions is needed to accelerate
   progress toward meeting Global Nutrition Target 2, a 50% reduction of anemia in
   women of reproductive age by 2025, and to alleviate the substantial health loss
   in children under five years of age. These estimates of total burden of anemia by
   severity and its underlying causes allow for more precise targeting of interventions
-  to the highest-burden regions and the causes contributing the most to total prevalence.
-  Funding Sources Funding was provided by the Bill and Melinda Gates Foundation.'
+  to the highest-burden regions and the causes contributing the most to total prevalence.'
 publication: '*Current Developments in Nutrition*'
 doi: 10.1093/cdn/nzaa053_035
 links:

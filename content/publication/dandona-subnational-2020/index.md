@@ -13,7 +13,6 @@ date: '2020-05-01'
 lastmod: 2023-07-14T02:11:42-05:00
 featured: false
 draft: false
-url_pdf: "india_u5m_2020.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
