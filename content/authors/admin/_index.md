@@ -17,7 +17,7 @@ organizations:
   url: https://www.vagelos.columbia.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include global child health, respiratory epidemiology, and statistical modeling.
+bio: My research interests include global maternal and child health, respiratory epidemiology, and health metrics and statistical modeling.
 
 # Interests to show in About widget
 interests:
