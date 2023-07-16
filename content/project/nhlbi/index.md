@@ -7,6 +7,8 @@ authors: []
 tags: []
 categories: []
 date: 2023-07-11T22:57:31-05:00
+show_date: false
+share: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -22,7 +24,8 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: More Info
+ - name: Overview
    url: https://academic.oup.com/aje/article/187/11/2265/5047150
 
 ---
+The **NHLBI Pooled Cohorts Study** is a large, US general population-based sample of pooled, harmonized data from nine NIH-funded cohorts. The study includes data on respiratory and cardiovascular health outcomes and a variety of related risk factors and determinants.
