@@ -10,6 +10,9 @@ main:
   - name: publications
     url: 'publication/'
     weight: 20
+  - name: media
+    url: 'media/'
+    weight: 25
   - name: cv
     url: uploads/wmg_vita.pdf
     weight: 30

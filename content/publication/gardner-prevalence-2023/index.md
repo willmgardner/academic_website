@@ -47,4 +47,6 @@ doi: 10.1016/S2352-3026(23)00160-6
 links:
 - name: URL
   url: https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(23)00160-6/fulltext#%20
+- name: Infographic
+  url: "uploads/lancet-anemia-infographic.pdf"
 ---
