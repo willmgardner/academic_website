@@ -42,4 +42,6 @@ doi: 10.1016/S2352-3026(23)00118-7
 links:
 - name: URL
   url: https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(23)00118-7/fulltext
+- name: Infographic
+  url: "uploads/lancet-scd-infographic.pdf"
 ---
