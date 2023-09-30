@@ -8,9 +8,9 @@ headless: true
 active: false
 
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
-title: Recent Posts
+title: Media
 subtitle:
 
 content:
@@ -38,5 +38,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
 ---
