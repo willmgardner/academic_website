@@ -32,4 +32,4 @@ links:
   url: https://omny.fm/shows/kcbsam-on-demand/a-recent-study-found-that-nearly-1-in-four-people
 ---
 
-I spoke with KCBS reporter Jennifer Hodges about [our recent study](https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(23)00160-6/fulltext) on global anemia burden published in The Lancet Haematology.
+I spoke with KCBS reporter Jennifer Hodges about [our recent study](https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(23)00160-6/fulltext) on global anemia burden published in The Lancet Haematology. Listen to [the full interview](https://omny.fm/shows/kcbsam-on-demand/a-recent-study-found-that-nearly-1-in-four-people) on KCBS radio.
