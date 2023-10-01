@@ -14,7 +14,7 @@ main:
     url: 'media/'
     weight: 25
   - name: cv
-    url: 'uploads/cv.pdf'
+    url: uploads/wmg_vita.pdf
     weight: 30
   - name: about
     url: '#about'
