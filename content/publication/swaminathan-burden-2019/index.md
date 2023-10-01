@@ -40,7 +40,4 @@ Malnutrition was the predominant risk factor for death in children younger than 
 Malnutrition continues to be the leading risk factor for disease burden in India. It is encouraging that India has set ambitious targets to reduce malnutrition through NNM. The trends up to 2017 indicate that substantially higher rates of improvement will be needed for all malnutrition indicators in most states to achieve the Indian 2022 and the global 2030 targets. The state-specific findings in this report indicate the effort needed in each state, which will be useful in tracking and motivating further progress. Similar subnational analyses might be useful for other low-income and middle-income countries."
 publication: '*The Lancet Child & Adolescent Health*'
 doi: 10.1016/S2352-4642(19)30273-1
-links:
-- name: URL
-  url: https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(19)30273-1/fulltext
 ---

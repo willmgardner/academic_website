@@ -56,6 +56,6 @@ abstract: Historically, the prevalence of child growth failure (CGF) has been tr
 publication: '*Science Advances*'
 doi: 10.1126/sciadv.abm8954
 links:
-- name: URL
-  url: https://www.science.org/doi/10.1126/sciadv.abm8954
+- name: Code
+  url: https://zenodo.org/record/6321362#.YkNoIShlD-g
 ---

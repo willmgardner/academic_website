@@ -89,6 +89,6 @@ abstract: Exclusive breastfeeding (EBF)—giving infants only breast-milk (and m
 publication: '*Nature Medicine*'
 doi: 10.1038/s41591-019-0525-0
 links:
-- name: URL
-  url: https://www.nature.com/articles/s41591-019-0525-0
+- name: Code
+  url: https://github.com/ihmeuw/lbd/tree/ebf-africa-2019
 ---

@@ -43,6 +43,6 @@ With increasing life expectancy in most countries, the question of whether the a
 publication: '*The Lancet*'
 doi: 10.1016/S0140-6736(18)32335-3
 links:
-- name: URL
-  url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32335-3/fulltext
+- name: Code
+  url: https://ghdx.healthdata.org/gbd-2017/code
 ---

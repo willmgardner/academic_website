@@ -43,6 +43,6 @@ By quantifying levels and trends in exposures to risk factors and the resulting 
 publication: '*The Lancet*'
 doi: 10.1016/S0140-6736(18)32225-6
 links:
-- name: URL
-  url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32225-6/fulltext
+- name: Code
+  url: https://ghdx.healthdata.org/gbd-2017/code
 ---

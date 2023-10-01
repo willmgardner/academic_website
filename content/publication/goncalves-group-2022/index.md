@@ -69,7 +69,4 @@ Data from the seven systematic reviews, published in 2017, that informed the pre
 Our analysis provides a comprehensive assessment of the pregnancy-related GBS burden. The Bayesian approach enabled coherent propagation of uncertainty, which is considerable, notably regarding GBS-associated preterm births. Our findings on both the acute and long-term consequences of iGBS have public health implications for understanding the value of investment in maternal GBS immunisation and other preventive strategies.'
 publication: '*The Lancet Global Health*'
 doi: 10.1016/S2214-109X(22)00093-6
-links:
-- name: URL
-  url: https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(22)00093-6/fulltext
 ---

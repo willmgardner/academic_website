@@ -42,6 +42,6 @@ Global all-cause age-standardised YLD rates have improved only slightly over a p
 publication: '*The Lancet*'
 doi: 10.1016/S0140-6736(18)32279-7
 links:
-- name: URL
-  url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32279-7/fulltext
+- name: Code
+  url: https://ghdx.healthdata.org/gbd-2017/code
 ---

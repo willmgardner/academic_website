@@ -41,6 +41,6 @@ The patterns and progress in reducing the burden of LRIs and key risk factors fo
 publication: '*The Lancet Infectious Diseases*'
 doi: 10.1016/S1473-3099(22)00510-2
 links:
-- name: URL
-  url: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00510-2/fulltext
+- name: Code
+  url: https://ghdx.healthdata.org/gbd-2019/code
 ---

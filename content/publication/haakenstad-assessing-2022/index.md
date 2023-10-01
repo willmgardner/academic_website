@@ -42,6 +42,6 @@ Although major gaps remain across levels of social and economic development, con
 publication: '*The Lancet Global Health*'
 doi: 10.1016/S2214-109X(22)00429-6
 links:
-- name: URL
-  url: https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(22)00429-6/fulltext
+- name: Code
+  url: https://ghdx.healthdata.org/gbd-2019/code
 ---

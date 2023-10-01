@@ -42,6 +42,6 @@ As disability becomes an increasingly large component of disease burden and a la
 publication: '*The Lancet*'
 doi: 10.1016/S0140-6736(20)30925-9
 links:
-- name: URL
-  url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30925-9/fulltext
+- name: Code
+  url: https://ghdx.healthdata.org/gbd-2019/code
 ---

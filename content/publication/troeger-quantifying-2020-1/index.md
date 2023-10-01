@@ -42,6 +42,6 @@ Diarrhoea mortality has declined substantially since 1990, although there are va
 publication: '*The Lancet Infectious Diseases*'
 doi: 10.1016/S1473-3099(19)30401-3
 links:
-- name: URL
-  url: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30401-3/fulltext
+- name: Code
+  url: https://ghdx.healthdata.org/gbd-2017/code
 ---

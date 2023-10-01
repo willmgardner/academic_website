@@ -41,6 +41,6 @@ Overall, the record for reducing exposure to harmful risks over the past three d
 publication: '*The Lancet*'
 doi: 10.1016/S0140-6736(20)30752-2
 links:
-- name: URL
-  url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30752-2/fulltext
+- name: Code
+  url: https://ghdx.healthdata.org/gbd-2019/code
 ---

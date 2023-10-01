@@ -40,8 +40,8 @@ Our findings show a strikingly high contribution of sickle cell disease to all-c
 publication: '*The Lancet Haematology*'
 doi: 10.1016/S2352-3026(23)00118-7
 links:
-- name: URL
-  url: https://www.thelancet.com/journals/lanhae/article/PIIS2352-3026(23)00118-7/fulltext
+- name: Code
+  url: https://github.com/ihmeuw/sickle_cell_disease_gbd_2021
 - name: Infographic
   url: "uploads/lancet-scd-infographic.pdf"
 ---

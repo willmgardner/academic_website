@@ -42,6 +42,6 @@ Our findings show that there have been substantial but uneven declines in LRI mo
 publication: '*The Lancet Infectious Diseases*'
 doi: 10.1016/S1473-3099(19)30410-4
 links:
-- name: URL
-  url: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30410-4/fulltext
+- name: Code
+  url: https://ghdx.healthdata.org/gbd-2017/code
 ---

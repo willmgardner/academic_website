@@ -42,6 +42,6 @@ Global child mortality declined by almost half between 2000 and 2019, but progre
 publication: '*The Lancet*'
 doi: 10.1016/S0140-6736(21)01207-1
 links:
-- name: URL
-  url: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01207-1/fulltext
+- name: Code
+  url: https://ghdx.healthdata.org/gbd-2019/code
 ---
