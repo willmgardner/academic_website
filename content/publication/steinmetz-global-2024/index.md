@@ -41,4 +41,6 @@ doi: 10.1016/S1474-4422(24)00038-3
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S1474442224000383
+- name: Code
+  url: https://ghdx.healthdata.org/gbd-2021/code
 ---
