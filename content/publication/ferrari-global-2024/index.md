@@ -24,7 +24,7 @@ publishDate: '2024-05-05T22:16:24.977999Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- 2
 
 # Publication name and optional abbreviated publication name.
 publication: '*The Lancet*'
