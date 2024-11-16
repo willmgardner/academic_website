@@ -1,7 +1,5 @@
 ---
-title: 'Global, regional, and national stillbirths at 20 weeks' gestation or longer
-  in 204 countries and territories, 1990–2021: findings from the Global Burden of
-  Disease Study 2021'
+title: "Global, regional, and national stillbirths at 20 weeks' gestation or longer in 204 countries and territories, 1990–2021: findings from the Global Burden of Disease Study 2021"
 
 # Authors
 # A YAML list of author names
