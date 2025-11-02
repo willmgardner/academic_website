@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.4)  19 JUN 2025 17:41
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.4)  1 NOV 2025 23:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1515,7 +1515,7 @@ LaTeX Font Info:    Font shape `TU/MinionProBold(0)/m/n' will be
 [1
 
 ]
-Overfull \hbox (9.99655pt too wide) in paragraph at lines 226--228
+Overfull \hbox (9.99655pt too wide) in paragraph at lines 234--236
 \TU/MinionPro(0)/m/n/10.95 Global Nutrition Target Collaborators \TU/MinionPro(
 0)/m/it/10.95 (including \TU/MinionPro(0)/b/it/10.95 Gardner WM\TU/MinionPro(0)
 /m/it/10.95 ). [][]\TU/MinionPro(0)/m/n/10.95 Global, regional, and national pr
@@ -1532,10 +1532,10 @@ Package logreq Info: Writing requests to 'wmg_vita.run.xml'.
 Here is how much of TeX's memory you used:
  29800 strings out of 476919
  537906 string characters out of 5821841
- 1725048 words of memory out of 5000000
+ 1726048 words of memory out of 5000000
  49450 multiletter control sequences out of 15000+600000
  404503 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,12n,122p,1153b,3824s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,11n,122p,1153b,3824s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on wmg_vita.pdf (5 pages).
