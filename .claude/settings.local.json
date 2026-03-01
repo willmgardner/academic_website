@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs -I {} sh -c 'echo \"\"FILE: {}\"\"; head -30 \"\"{}\"\"')",
+      "Bash(xargs -I {} sh -c 'echo \"\"FILE: {}\"\"; head -40 \"\"{}\"\"')",
+      "Bash(wc:*)",
+      "Bash(cat:*)"
+    ]
+  }
+}
