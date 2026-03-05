@@ -79,7 +79,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
