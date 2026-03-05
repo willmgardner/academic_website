@@ -21,10 +21,10 @@ bio: My research interests include global maternal and child health, respiratory
 
 # Interests to show in About widget
 interests:
-- Global Maternal and Child Health 
+- Infectious Disease & Pandemic Preparedness
+- Health Systems Strengthening
 - Respiratory Epidemiology
 - Health Metrics and Statistical Modeling
-- Comparative Health Systems Evaluation
 
 # Education to show in About widget
 education:
@@ -60,9 +60,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/willmgardner/
-#- icon: cv
-#  icon_pack: ai
-#  link: uploads/wmg_vita.pdf #static/uploads/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/wmg_vita.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 <br /> 
-I'm a researcher on the [Global Burden of Disease Study](https://www.healthdata.org/gbd) at the [Institute for Health Metrics and Evaluation](https://www.heatlthdata.org) and a medical student at [Columbia University](https://www.vagelos.columbia.edu). I conduct research in the areas of global maternal and child health, respiratory epidemiology, health systems performance and evaluation, and health metrics.
+I'm a researcher on the [Global Burden of Disease Study](https://www.healthdata.org/gbd) at the [Institute for Health Metrics and Evaluation](https://www.healthdata.org) and a medical student at [Columbia University](https://www.vagelos.columbia.edu). I conduct research in respiratory epidemiology, infectious disease and pandemic preparedness, health systems strengthening, and health metrics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wmg_vita.pdf" "newtab" >}}CV{{< /staticref >}}.
