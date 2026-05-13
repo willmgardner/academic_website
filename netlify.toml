@@ -1,21 +1,44 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  publish = "."
 
-[build.environment]
-  HUGO_VERSION = "0.87.0"
-  HUGO_ENABLEGITINFO = "true"
+[[redirects]]
+  from = "/project/gbd/*"
+  to = "/research.html#gbd"
+  status = 301
 
-[context.production.environment]
-  HUGO_ENV = "production"
+[[redirects]]
+  from = "/project/nhlbi/*"
+  to = "/research.html#nhlbi"
+  status = 301
 
-[context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+[[redirects]]
+  from = "/project/*"
+  to = "/research.html"
+  status = 301
 
-[context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+[[redirects]]
+  from = "/publication/*"
+  to = "/publications.html"
+  status = 301
 
-[[plugins]]
-  package = "netlify-plugin-hugo-cache-resources"
-  [plugins.inputs]
-    debug = true
+[[redirects]]
+  from = "/post/*"
+  to = "/writing.html"
+  status = 301
+
+[[redirects]]
+  from = "/talk/*"
+  to = "/index.html"
+  status = 301
+
+[[redirects]]
+  from = "/authors/*"
+  to = "/index.html"
+  status = 301
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
