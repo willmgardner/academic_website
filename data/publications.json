@@ -1,0 +1,1082 @@
+{
+  "publications": [
+    {
+      "id": "gardner-pipe-2026",
+      "title": "Pipe and cigar use, lung function decline and clinical outcomes: an analysis of the NHLBI Pooled Cohorts Study",
+      "authors": [
+        "WM Gardner",
+        "PP Balte",
+        "CM Eckhardt",
+        "JE Morris",
+        "SP Bhatt",
+        "DJ Couper",
+        "ND Freedman",
+        "DR Jacobs",
+        "R Kalhan",
+        "LR Loehr",
+        "SJ London",
+        "PL Lutsey",
+        "JE Schwartz",
+        "W White",
+        "S Yende",
+        "TR Sanchez",
+        "EC Oelsner"
+      ],
+      "journal": "Thorax",
+      "year": 2026,
+      "month": 3,
+      "doi": "10.1136/thorax-2025-224461",
+      "url": "https://thorax.bmj.com/content/early/2026/03/03/thorax-2025-224461",
+      "featured": true,
+      "projects": [
+        "nhlbi"
+      ],
+      "image": "uploads/publications/gardner-pipe-2026/featured.jpg",
+      "pdf": "uploads/publications/gardner-pipe-2026/gardner-pipe-2026.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://thorax.bmj.com/content/early/2026/03/03/thorax-2025-224461"
+        },
+        {
+          "label": "Infographic",
+          "url": "uploads/thorax-pipe-infographic.pdf"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "hay-burden-2025",
+      "title": "Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023",
+      "authors": [
+        "GBD 2023 Disease and Injury and Risk Factor Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2025,
+      "month": 10,
+      "doi": "10.1016/S0140-6736(25)01637-X",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01637-X/fulltext",
+      "featured": true,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/hay-burden-2025/featured.jpg",
+      "pdf": "uploads/publications/hay-burden-2025/hay-burden-2025.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01637-X/fulltext"
+        },
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2023/code"
+        },
+        {
+          "label": "Data",
+          "url": "https://ghdx.healthdata.org/gbd-2023/sources"
+        },
+        {
+          "label": "Estimates",
+          "url": "https://vizhub.healthdata.org/gbd-results/"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "naghavi-global-2025",
+      "title": "Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023",
+      "authors": [
+        "GBD 2023 Causes of Death Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2025,
+      "month": 10,
+      "doi": "10.1016/S0140-6736(25)01917-8",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01917-8/fulltext",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/naghavi-global-2025/featured.jpg",
+      "pdf": "uploads/publications/naghavi-global-2025/naghavi-global-2025.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01917-8/fulltext"
+        },
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2023/code"
+        },
+        {
+          "label": "Data",
+          "url": "https://ghdx.healthdata.org/gbd-2023/sources"
+        },
+        {
+          "label": "Estimates",
+          "url": "https://vizhub.healthdata.org/gbd-results/"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "mira-sanchez-subclinical-2025",
+      "title": "Subclinical Hypercoagulable Viscoelastic Characteristics Associate With Post-Acute Sequelae of SARS-CoV-2 Physical Symptoms in COVID Acute Lung Injury/Acute Respiratory Distress Syndrome Survivors",
+      "authors": [
+        "M Mira-Sanchez",
+        "AE Jones",
+        "Z Khan",
+        "WM Gardner",
+        "C McGroder",
+        "C Depender",
+        "SO Murphy",
+        "CK Garcia",
+        "DJ Roh",
+        "MR Baldwin"
+      ],
+      "journal": "American Journal of Respiratory and Critical Care Medicine",
+      "year": 2025,
+      "month": 5,
+      "doi": "10.1164/ajrccm.2025.211.Abstracts.A3694",
+      "url": "https://www.atsjournals.org/doi/abs/10.1164/ajrccm.2025.211.Abstracts.A3694",
+      "featured": false,
+      "projects": [],
+      "image": "uploads/publications/mira-sanchez-subclinical-2025/featured.jpg",
+      "pdf": "uploads/publications/mira-sanchez-subclinical-2025/mira-sanchez-subclinical-2025.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.atsjournals.org/doi/abs/10.1164/ajrccm.2025.211.Abstracts.A3694"
+        }
+      ],
+      "type": "abstract"
+    },
+    {
+      "id": "lee-global-2025",
+      "title": "Global, regional and national burden of dietary iron deficiency from 1990 to 2021: a Global Burden of Disease study",
+      "authors": [
+        "GBD 2021 Dietary Iron Deficiency Collaborators"
+      ],
+      "journal": "Nature Medicine",
+      "year": 2025,
+      "month": 4,
+      "doi": "10.1038/s41591-025-03624-8",
+      "url": "https://www.nature.com/articles/s41591-025-03624-8",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/lee-global-2025/featured.png",
+      "pdf": "uploads/publications/lee-global-2025/lee-global-2025.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.nature.com/articles/s41591-025-03624-8"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/ihmeuw/anemia_gbd2021"
+        },
+        {
+          "label": "Data",
+          "url": "https://ghdx.healthdata.org/gbd-2021"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "arndt-global-2024",
+      "title": "Global, regional, and national progress towards the 2030 global nutrition targets and forecasts to 2050: a systematic analysis for the Global Burden of Disease Study 2021",
+      "authors": [
+        "Global Nutrition Target Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2024,
+      "month": 12,
+      "doi": "10.1016/S0140-6736(24)01821-X",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01821-X/fulltext",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/arndt-global-2024/featured.jpg",
+      "pdf": "uploads/publications/arndt-global-2024/arndt-global-2024.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01821-X/fulltext"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/ihmeuw/global_nutrition_target_progress/"
+        },
+        {
+          "label": "Data",
+          "url": "https://ghdx.healthdata.org/record/ihme-data/gbd-2021-gnt-estimates-forecasts-2012-2050"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "mokdad-burden-2024",
+      "title": "The burden of diseases, injuries, and risk factors by state in the USA, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021",
+      "authors": [
+        "GBD 2021 US Burden of Disease Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2024,
+      "month": 12,
+      "doi": "10.1016/S0140-6736(24)01446-6",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0140673624014466",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/mokdad-burden-2024/featured.jpg",
+      "pdf": "uploads/publications/mokdad-burden-2024/mokdad-burden-2024.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0140673624014466"
+        },
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2021/code"
+        },
+        {
+          "label": "Data",
+          "url": "https://ghdx.healthdata.org/gbd-2021"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "comfort-global-2024",
+      "title": "Global, regional, and national stillbirths at 20 weeks’ gestation or longer in 204 countries and territories, 1990–2021: findings from the Global Burden of Disease Study 2021",
+      "authors": [
+        "GBD 2021 Global Stillbirths Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2024,
+      "month": 11,
+      "doi": "10.1016/S0140-6736(24)01925-1",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01925-1/fulltext",
+      "featured": true,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/comfort-global-2024/featured.jpg",
+      "pdf": "uploads/publications/comfort-global-2024/comfort-global-2024.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01925-1/fulltext"
+        },
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2021/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "brauer-global-2024",
+      "title": "Global burden and strength of evidence for 88 risk factors in 204 countries and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021",
+      "authors": [
+        "GBD 2021 Risk Factors Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2024,
+      "month": 5,
+      "doi": "10.1016/S0140-6736(24)00933-4",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00933-4/fulltext",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/brauer-global-2024/featured.jpg",
+      "pdf": "uploads/publications/brauer-global-2024/brauer-global-2024.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00933-4/fulltext"
+        },
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2021/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "naghavi-global-2024",
+      "title": "Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021",
+      "authors": [
+        "GBD 2021 Causes of Death Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2024,
+      "month": 4,
+      "doi": "10.1016/S0140-6736(24)00367-2",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00367-2/fulltext",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/naghavi-global-2024/featured.jpg",
+      "pdf": "uploads/publications/naghavi-global-2024/naghavi-global-2024.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00367-2/fulltext"
+        },
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2021/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "ferrari-global-2024",
+      "title": "Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021",
+      "authors": [
+        "GBD 2021 Diseases and Injuries Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2024,
+      "month": 4,
+      "doi": "10.1016/S0140-6736(24)00757-8",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00757-8/fulltext",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/ferrari-global-2024/featured.jpg",
+      "pdf": "uploads/publications/ferrari-global-2024/ferrari-global-2024.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00757-8/fulltext"
+        },
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2021/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "steinmetz-global-2024",
+      "title": "Global, regional, and national burden of disorders affecting the nervous system, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021",
+      "authors": [
+        "GBD 2021 Nervous System Disorders Collaborators"
+      ],
+      "journal": "The Lancet Neurology",
+      "year": 2024,
+      "month": 4,
+      "doi": "10.1016/S1474-4422(24)00038-3",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1474442224000383",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/steinmetz-global-2024/featured.jpg",
+      "pdf": "uploads/publications/steinmetz-global-2024/steinmetz-global-2024.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1474442224000383"
+        },
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2021/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "gardner-prevalence-2023",
+      "title": "Prevalence, years lived with disability, and trends in anaemia burden by severity and cause, 1990–2021: findings from the Global Burden of Disease Study 2021",
+      "authors": [
+        "WM Gardner",
+        "GBD 2021 Anaemia Collaborators",
+        "NJ Kassebaum"
+      ],
+      "journal": "The Lancet Haematology",
+      "year": 2023,
+      "month": 9,
+      "doi": "10.1016/S2352-3026(23)00160-6",
+      "url": null,
+      "featured": true,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/gardner-prevalence-2023/featured.jpg",
+      "pdf": "uploads/publications/gardner-prevalence-2023/gardner-prevalence-2023.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/ihmeuw/anemia_gbd2021"
+        },
+        {
+          "label": "Infographic",
+          "url": "uploads/lancet-anemia-infographic.pdf"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "thomson-global-2023",
+      "title": "Global, regional, and national prevalence and mortality burden of sickle cell disease, 2000–2021: a systematic analysis from the Global Burden of Disease Study 2021",
+      "authors": [
+        "GBD 2021 Sickle Cell Disease Collaborators"
+      ],
+      "journal": "The Lancet Haematology",
+      "year": 2023,
+      "month": 6,
+      "doi": "10.1016/S2352-3026(23)00118-7",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/thomson-global-2023/featured.jpg",
+      "pdf": "uploads/publications/thomson-global-2023/thomson-global-2023.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/ihmeuw/sickle_cell_disease_gbd_2021"
+        },
+        {
+          "label": "Infographic",
+          "url": "uploads/lancet-scd-infographic.pdf"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "fitzgerald-current-2022",
+      "title": "Current dichotomous metrics obscure trends in severe and extreme child growth failure",
+      "authors": [
+        "R Fitzgerald",
+        "H Manguerra",
+        "MB Arndt",
+        "WM Gardner",
+        "Y Chang",
+        "B Zigler",
+        "HJ Taylor",
+        "K Bienhoff",
+        "DL Smith",
+        "CJL Murray",
+        "SI Hay",
+        "RC Reiner",
+        "NJ Kassebaum"
+      ],
+      "journal": "Science Advances",
+      "year": 2022,
+      "month": 5,
+      "doi": "10.1126/sciadv.abm8954",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/fitzgerald-current-2022/featured.png",
+      "pdf": "uploads/publications/fitzgerald-current-2022/fitzgerald-current-2022.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://zenodo.org/record/6321362"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "goncalves-group-2022",
+      "title": "Group B streptococcus infection during pregnancy and infancy: estimates of regional and global burden",
+      "authors": [
+        "BP Gonçalves",
+        "SR Procter",
+        "P Paul",
+        "J Chandna",
+        "A Lewin",
+        "F Seedat",
+        "A Koukounari",
+        "Z Dangor",
+        "S Leahy",
+        "S Santhanam",
+        "HB John",
+        "J Bramugy",
+        "A Bardájí",
+        "A Abubakar",
+        "C Nasambu",
+        "R Libster",
+        "C Yanotti",
+        "E Horváth-Puhó",
+        "HT Sørensen",
+        "D van de Beek",
+        "MW Bijlsma",
+        "WM Gardner",
+        "NJ Kassebaum",
+        "C Trotter",
+        "Q Bassat",
+        "SA Madhi",
+        "P Lambach",
+        "M Jit",
+        "JE Lawn"
+      ],
+      "journal": "The Lancet Global Health",
+      "year": 2022,
+      "month": 6,
+      "doi": "10.1016/S2214-109X(22)00093-6",
+      "url": null,
+      "featured": true,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/goncalves-group-2022/featured.jpg",
+      "pdf": "uploads/publications/goncalves-group-2022/goncalves-group-2022.pdf",
+      "links": [],
+      "type": "article"
+    },
+    {
+      "id": "haakenstad-assessing-2022",
+      "title": "Assessing performance of the Healthcare Access and Quality Index, overall and by select age groups, for 204 countries and territories, 1990–2019: a systematic analysis from the Global Burden of Disease Study 2019",
+      "authors": [
+        "GBD 2019 Healthcare Access and Quality Collaborators"
+      ],
+      "journal": "The Lancet Global Health",
+      "year": 2022,
+      "month": 12,
+      "doi": "10.1016/S2214-109X(22)00429-6",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/haakenstad-assessing-2022/featured.jpg",
+      "pdf": "uploads/publications/haakenstad-assessing-2022/haakenstad-assessing-2022.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2019/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "kyu-agesex-2022",
+      "title": "Age–sex differences in the global burden of lower respiratory infections and risk factors, 1990–2019: results from the Global Burden of Disease Study 2019",
+      "authors": [
+        "GBD 2019 LRI Collaborators"
+      ],
+      "journal": "The Lancet Infectious Diseases",
+      "year": 2022,
+      "month": 11,
+      "doi": "10.1016/S1473-3099(22)00510-2",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/kyu-agesex-2022/featured.jpg",
+      "pdf": "uploads/publications/kyu-agesex-2022/kyu-agesex-2022.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2019/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "paulson-global-2021",
+      "title": "Global, regional, and national progress towards Sustainable Development Goal 3.2 for neonatal and child health: all-cause and cause-specific mortality findings from the Global Burden of Disease Study 2019",
+      "authors": [
+        "GBD 2019 Under-5 Mortality Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2021,
+      "month": 9,
+      "doi": "10.1016/S0140-6736(21)01207-1",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/paulson-global-2021/featured.jpg",
+      "pdf": "uploads/publications/paulson-global-2021/paulson-global-2021.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2019/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "bhattacharjee-mapping-2021",
+      "title": "Mapping inequalities in exclusive breastfeeding in low- and middle-income countries, 2000–2018",
+      "authors": [
+        "Local Burden of Disease Exclusive Breastfeeding Collaborators"
+      ],
+      "journal": "Nature Human Behaviour",
+      "year": 2021,
+      "month": 8,
+      "doi": "10.1038/s41562-021-01108-6",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/bhattacharjee-mapping-2021/featured.png",
+      "pdf": "uploads/publications/bhattacharjee-mapping-2021/bhattacharjee-mapping-2021.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/ihmeuw/lbd/tree/ebf-lmic-2021"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "lozano-measuring-2020",
+      "title": "Measuring universal health coverage based on an index of effective coverage of health services in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019",
+      "authors": [
+        "GBD 2019 Universal Health Coverage Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2020,
+      "month": 10,
+      "doi": "10.1016/S0140-6736(20)30750-9",
+      "url": null,
+      "featured": true,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/lozano-measuring-2020/featured.jpg",
+      "pdf": "uploads/publications/lozano-measuring-2020/lozano-measuring-2020.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2019/code/uhc-1"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "vos-global-2020",
+      "title": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019",
+      "authors": [
+        "GBD 2019 Diseases and Injuries Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2020,
+      "month": 10,
+      "doi": "10.1016/S0140-6736(20)30925-9",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/vos-global-2020/featured.jpg",
+      "pdf": "uploads/publications/vos-global-2020/vos-global-2020.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2019/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "murray-five-2020",
+      "title": "Five insights from the Global Burden of Disease Study 2019",
+      "authors": [
+        "GBD 2019 Viewpoint Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2020,
+      "month": 10,
+      "doi": "10.1016/S0140-6736(20)31404-5",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31404-5/fulltext",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": null,
+      "pdf": "uploads/publications/murray-five-2020/murray-five-2020.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31404-5/fulltext"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "murray-global-2020",
+      "title": "Global burden of 87 risk factors in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019",
+      "authors": [
+        "GBD 2019 Risk Factors Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2020,
+      "month": 10,
+      "doi": "10.1016/S0140-6736(20)30752-2",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/murray-global-2020/featured.jpg",
+      "pdf": "uploads/publications/murray-global-2020/murray-global-2020.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2019/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "dandona-subnational-2020",
+      "title": "Subnational mapping of under-5 and neonatal mortality trends in India: the Global Burden of Disease Study 2000–2017",
+      "authors": [
+        "India State-Level Disease Burden Initiative Child Mortality Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2020,
+      "month": 5,
+      "doi": "10.1016/S0140-6736(20)30471-2",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30471-2/fulltext",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/dandona-subnational-2020/featured.jpg",
+      "pdf": "uploads/publications/dandona-subnational-2020/dandona-subnational-2020.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30471-2/fulltext"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "troeger-diarrhea-2020",
+      "title": "Quantifying risks and interventions that have affected the burden of diarrhoea among children younger than 5 years: an analysis of the Global Burden of Disease Study 2017",
+      "authors": [
+        "GBD 2017 Diarrhoeal Disease Collaborators"
+      ],
+      "journal": "The Lancet Infectious Diseases",
+      "year": 2020,
+      "month": 1,
+      "doi": "10.1016/S1473-3099(19)30401-3",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/troeger-diarrhea-2020/featured.jpg",
+      "pdf": "uploads/publications/troeger-diarrhea-2020/troeger-diarrhea-2020.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2017/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "troeger-lri-2020",
+      "title": "Quantifying risks and interventions that have affected the burden of lower respiratory infections among children younger than 5 years: an analysis for the Global Burden of Disease Study 2017",
+      "authors": [
+        "GBD 2017 Lower Respiratory Infections Collaborators"
+      ],
+      "journal": "The Lancet Infectious Diseases",
+      "year": 2020,
+      "month": 1,
+      "doi": "10.1016/S1473-3099(19)30410-4",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/troeger-lri-2020/featured.jpg",
+      "pdf": "uploads/publications/troeger-lri-2020/troeger-lri-2020.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2017/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "gardner-anemia-prev-2020",
+      "title": "Global, Regional, and National Prevalence of Anemia and Its Causes in 204 Countries and Territories, 1990–2019",
+      "authors": [
+        "WM Gardner",
+        "NJ Kassebaum"
+      ],
+      "journal": "Current Developments in Nutrition",
+      "year": 2020,
+      "month": 6,
+      "doi": "10.1093/cdn/nzaa053_035",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2475299123083488",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": null,
+      "pdf": "uploads/publications/gardner-anemia-prev-2020/gardner-anemia-prev-2020.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2475299123083488"
+        }
+      ],
+      "type": "abstract"
+    },
+    {
+      "id": "gardner-bf-2020",
+      "title": "Global, Regional, and National Prevalence and Trends in Infant Breastfeeding Status in 204 Countries and Territories, 1990–2019",
+      "authors": [
+        "WM Gardner",
+        "NJ Kassebaum"
+      ],
+      "journal": "Current Developments in Nutrition",
+      "year": 2020,
+      "month": 6,
+      "doi": "10.1093/cdn/nzaa054_064",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2475299123085104",
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": null,
+      "pdf": "uploads/publications/gardner-bf-2020/gardner-bf-2020.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2475299123085104"
+        }
+      ],
+      "type": "abstract"
+    },
+    {
+      "id": "bhattacharjee-mapping-2019",
+      "title": "Mapping exclusive breastfeeding in Africa between 2000 and 2017",
+      "authors": [
+        "NV Bhattacharjee",
+        "LE Schaeffer",
+        "LB Marczak",
+        "JM Ross",
+        "SJ Swartz",
+        "J Albright",
+        "WM Gardner",
+        "C Shields",
+        "A Sligar",
+        "MF Schipp",
+        "BV Pickering",
+        "NJ Henry",
+        "KB Johnson",
+        "C Louie",
+        "MA Cork",
+        "KM Steuben",
+        "A Lazzar-Atwood",
+        "D Lu",
+        "DK Kinyoki",
+        "A Osgood-Zimmerman",
+        "L Earl",
+        "JF Mosser",
+        "A Deshpande",
+        "R Burstein",
+        "LP Woyczynski",
+        "KF Wilson",
+        "JD VanderHeide",
+        "KE Wiens",
+        "RC Reiner",
+        "EG Piwoz",
+        "R Rawat",
+        "B Sartorius",
+        "ND Weaver",
+        "MR Nixon",
+        "DL Smith",
+        "NJ Kassebaum",
+        "E Gakidou",
+        "SS Lim",
+        "AH Mokdad",
+        "CJL Murray",
+        "L Dwyer-Lindgren",
+        "SI Hay"
+      ],
+      "journal": "Nature Medicine",
+      "year": 2019,
+      "month": 8,
+      "doi": "10.1038/s41591-019-0525-0",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/bhattacharjee-mapping-2019/featured.png",
+      "pdf": "uploads/publications/bhattacharjee-mapping-2019/bhattacharjee-mapping-2019.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/ihmeuw/lbd/tree/ebf-africa-2019"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "swaminathan-burden-2019",
+      "title": "The burden of child and maternal malnutrition and trends in its indicators in the states of India: the Global Burden of Disease Study 1990–2017",
+      "authors": [
+        "India State-Level Disease Burden Initiative Malnutrition Collaborators"
+      ],
+      "journal": "The Lancet Child & Adolescent Health",
+      "year": 2019,
+      "month": 12,
+      "doi": "10.1016/S2352-4642(19)30273-1",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/swaminathan-burden-2019/featured.jpg",
+      "pdf": "uploads/publications/swaminathan-burden-2019/swaminathan-burden-2019.pdf",
+      "links": [],
+      "type": "article"
+    },
+    {
+      "id": "james-global-2018",
+      "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017",
+      "authors": [
+        "GBD 2017 Disease and Injury Incidence and Prevalence Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2018,
+      "month": 11,
+      "doi": "10.1016/S0140-6736(18)32279-7",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/james-global-2018/featured.jpg",
+      "pdf": "uploads/publications/james-global-2018/james-global-2018.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2017/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "kyu-global-2018",
+      "title": "Global, regional, and national disability-adjusted life-years (DALYs) for 359 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017",
+      "authors": [
+        "GBD 2017 DALYs and HALE Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2018,
+      "month": 11,
+      "doi": "10.1016/S0140-6736(18)32335-3",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/kyu-global-2018/featured.jpg",
+      "pdf": "uploads/publications/kyu-global-2018/kyu-global-2018.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2017/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "lozano-measuring-2018",
+      "title": "Measuring progress from 1990 to 2017 and projecting attainment to 2030 of the health-related Sustainable Development Goals for 195 countries and territories: a systematic analysis for the Global Burden of Disease Study 2017",
+      "authors": [
+        "GBD 2017 SDG Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2018,
+      "month": 11,
+      "doi": "10.1016/S0140-6736(18)32281-5",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/lozano-measuring-2018/featured.jpg",
+      "pdf": "uploads/publications/lozano-measuring-2018/lozano-measuring-2018.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2017/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "roth-global-2018",
+      "title": "Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980–2017: a systematic analysis for the Global Burden of Disease Study 2017",
+      "authors": [
+        "GBD 2017 Causes of Death Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2018,
+      "month": 11,
+      "doi": "10.1016/S0140-6736(18)32203-7",
+      "url": null,
+      "featured": true,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/roth-global-2018/featured.jpg",
+      "pdf": "uploads/publications/roth-global-2018/roth-global-2018.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2017/code"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "stanaway-global-2018",
+      "title": "Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017",
+      "authors": [
+        "GBD 2017 Risk Factor Collaborators"
+      ],
+      "journal": "The Lancet",
+      "year": 2018,
+      "month": 11,
+      "doi": "10.1016/S0140-6736(18)32225-6",
+      "url": null,
+      "featured": false,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/stanaway-global-2018/featured.jpg",
+      "pdf": "uploads/publications/stanaway-global-2018/stanaway-global-2018.pdf",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2017/code"
+        }
+      ],
+      "type": "article"
+    }
+  ]
+}
