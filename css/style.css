@@ -1021,7 +1021,7 @@ img { display: block; max-width: 100%; }
 /* GBD banner needs a slight crop adjustment to vertically center the title text;
    NHLBI banner uses the default center crop. */
 .research-section:first-of-type .research-banner {
-  object-position: center 40%;
+  object-position: center 45%;
 }
 
 @media (max-width: 640px) {
