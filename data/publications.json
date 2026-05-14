@@ -34,12 +34,25 @@
       "projects": [
         "gbd"
       ],
+      "coFirstAuthors": ["CJ Teply", "WM Gardner"],
       "image": "uploads/publications/teply-implications-2026/featured.jpg",
       "pdf": "uploads/publications/teply-implications-2026/teply-implications-2026.pdf",
       "links": [
         {
           "label": "Article",
           "url": "https://www.sciencedirect.com/science/article/pii/S235230262600013X"
+        },
+        {
+          "label": "Code",
+          "url": "https://ghdx.healthdata.org/gbd-2023/code"
+        },
+        {
+          "label": "Data",
+          "url": "https://sources.healthdata.org/collection/sources-2023"
+        },
+        {
+          "label": "Estimates",
+          "url": "https://ghdx.healthdata.org/record/ihme-data/global-anemia-prevalence-elevation-adjustment-1990-2024"
         }
       ],
       "type": "article"

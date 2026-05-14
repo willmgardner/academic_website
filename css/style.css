@@ -919,6 +919,22 @@ img { display: block; max-width: 100%; }
   color: var(--text);
   font-weight: 600;
 }
+.author-dagger {
+  font-size: 0.7em;
+  vertical-align: super;
+  line-height: 0;
+  margin-left: 1px;
+  color: var(--text-muted);
+}
+.pub-card-meta .author-dagger {
+  color: inherit;
+}
+.pub-footnote {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin: 0 0 20px;
+  font-style: italic;
+}
 
 .pub-entry-venue {
   font-size: 0.875rem;

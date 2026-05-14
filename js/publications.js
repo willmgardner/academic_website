@@ -12,17 +12,21 @@ function isMe(author) {
   return ME_PATTERNS.some(p => author.includes(p));
 }
 
-function formatAuthors(authors, expanded) {
+function renderAuthor(author, coFirstSet) {
+  const dagger = coFirstSet.has(author) ? '<sup class="author-dagger">&dagger;</sup>' : '';
+  const inner = isMe(author) ? `<span class="author-me">${author}</span>` : author;
+  return `${inner}${dagger}`;
+}
+
+function formatAuthors(pub, expanded) {
+  const authors = pub.authors;
+  const coFirstSet = new Set(pub.coFirstAuthors || []);
   const THRESHOLD = 6;
   if (authors.length <= THRESHOLD || expanded) {
-    return authors.map(a =>
-      isMe(a) ? `<span class="author-me">${a}</span>` : a
-    ).join(', ');
+    return authors.map(a => renderAuthor(a, coFirstSet)).join(', ');
   }
   // Show first 3 + toggle
-  const visible = authors.slice(0, 3).map(a =>
-    isMe(a) ? `<span class="author-me">${a}</span>` : a
-  ).join(', ');
+  const visible = authors.slice(0, 3).map(a => renderAuthor(a, coFirstSet)).join(', ');
   return `<span class="authors-short">${visible}, </span>
           <span class="authors-full"></span>
           <button class="authors-toggle" aria-label="Show all authors">et al. [+${authors.length - 3}]</button>`;
@@ -45,7 +49,7 @@ function renderEntry(pub) {
     ? '<span class="type-badge type-badge--abstract">Conference abstract</span>'
     : '';
 
-  const authorHtml = formatAuthors(pub.authors, false);
+  const authorHtml = formatAuthors(pub, false);
 
   const venueEl = formatVenue(pub);
 
@@ -109,6 +113,7 @@ function renderList(pubs, container) {
     const entry = btn.closest('[data-id]');
     const id = entry.dataset.id;
     const pub = window.__pubs.find(p => p.id === id);
+    const coFirstSet = new Set(pub.coFirstAuthors || []);
     btn.addEventListener('click', () => {
       const full = btn.previousElementSibling;
       const isExpanded = full.classList.contains('expanded');
@@ -118,9 +123,7 @@ function renderList(pubs, container) {
         btn.textContent = `et al. [+${pub.authors.length - 3}]`;
       } else {
         full.classList.add('expanded');
-        full.innerHTML = pub.authors.slice(3).map(a =>
-          isMe(a) ? `<span class="author-me">${a}</span>` : a
-        ).join(', ');
+        full.innerHTML = pub.authors.slice(3).map(a => renderAuthor(a, coFirstSet)).join(', ');
         btn.textContent = 'collapse';
       }
     });
