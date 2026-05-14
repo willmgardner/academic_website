@@ -1,6 +1,50 @@
 {
   "publications": [
     {
+      "id": "teply-implications-2026",
+      "title": "Implications of changes in WHO haemoglobin elevation adjustment guidelines on global, regional, and national anaemia burden, 1990–2023: a population-based modelling study",
+      "authors": [
+        "CJ Teply",
+        "WM Gardner",
+        "TS Noyes",
+        "TA McHugh",
+        "HA Tandiono",
+        "NGA Nanditha",
+        "AA Harris",
+        "N Perumal",
+        "J Markt-Maloney",
+        "BC Howatt",
+        "HJ Taylor",
+        "K Humphrey",
+        "ZA Bhutta",
+        "D Girelli",
+        "SI Hay",
+        "CJL Murray",
+        "KM Musallam",
+        "O Nnodu",
+        "PS Suchdev",
+        "NJ Kassebaum"
+      ],
+      "journal": "The Lancet Haematology",
+      "year": 2026,
+      "month": 4,
+      "doi": "10.1016/S2352-3026(26)00013-X",
+      "url": "https://www.sciencedirect.com/science/article/pii/S235230262600013X",
+      "featured": true,
+      "projects": [
+        "gbd"
+      ],
+      "image": "uploads/publications/teply-implications-2026/featured.jpg",
+      "pdf": "uploads/publications/teply-implications-2026/teply-implications-2026.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.sciencedirect.com/science/article/pii/S235230262600013X"
+        }
+      ],
+      "type": "article"
+    },
+    {
       "id": "gardner-pipe-2026",
       "title": "Pipe and cigar use, lung function decline and clinical outcomes: an analysis of the NHLBI Pooled Cohorts Study",
       "authors": [
@@ -41,6 +85,39 @@
         {
           "label": "Infographic",
           "url": "uploads/thorax-pipe-infographic.pdf"
+        }
+      ],
+      "type": "article"
+    },
+    {
+      "id": "khan-inflammation-2026",
+      "title": "Inflammation, endothelial dysfunction, and frailty over 3 years in survivors of COVID-19 ARDS vs survivors of pneumonia",
+      "authors": [
+        "Z Khan",
+        "AE Jones",
+        "WM Gardner",
+        "CF McGroder",
+        "SO Murphy",
+        "C Depender",
+        "M Mira-Sanchez",
+        "CO Ogunlusi",
+        "CK Garcia",
+        "Y Wei",
+        "MR Baldwin"
+      ],
+      "journal": "CHEST Critical Care",
+      "year": 2026,
+      "month": 3,
+      "doi": "10.1016/j.chstcc.2026.100265",
+      "url": "https://www.chestcc.org/article/S2949-7884(26)00032-8/fulltext",
+      "featured": false,
+      "projects": [],
+      "image": "uploads/publications/khan-inflammation-2026/featured.jpg",
+      "pdf": "uploads/publications/khan-inflammation-2026/khan-inflammation-2026.pdf",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.chestcc.org/article/S2949-7884(26)00032-8/fulltext"
         }
       ],
       "type": "article"
