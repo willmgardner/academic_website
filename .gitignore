@@ -4,3 +4,15 @@ CLAUDE.md
 node_modules/
 .vscode/
 .idea/
+
+# LaTeX build artifacts (assets/cv/wmg_vita.tex source is tracked; PDF lands in uploads/)
+assets/cv/*.aux
+assets/cv/*.log
+assets/cv/*.out
+assets/cv/*.toc
+assets/cv/*.synctex.gz
+assets/cv/*.fdb_latexmk
+assets/cv/*.fls
+assets/cv/*.bcf
+assets/cv/*.run.xml
+assets/cv/wmg_vita.pdf
