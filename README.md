@@ -1,39 +1,22 @@
 # willgardner.io
 
-Personal academic website for William Gardner, MD MPH. Static HTML/CSS/JS, no build step.
+Source for [willgardner.io](https://willgardner.io), the personal academic website of William M. Gardner, MD MPH.
 
 ## Stack
 
-- Plain HTML/CSS/JS
-- Publications rendered at page load from `data/publications.json`
-- Deployed via Netlify, custom domain `willgardner.io`
-
-## Local development
-
-Run a local server (required for `fetch()` to load JSON):
-
-```
-python3 -m http.server 8080
-```
-
-Open http://localhost:8080.
-
-## Adding a publication
-
-1. Add an object to `data/publications.json`.
-2. (Optional) Drop the featured image at `uploads/publications/<id>/featured.jpg` and the PDF at `uploads/publications/<id>/<id>.pdf`.
-3. Commit and push to `main`. Netlify auto-deploys.
+- Static HTML, CSS, and JS — no build step or framework
+- Publications and per-pub author data rendered at page load from JSON
+- Deployed via Netlify
 
 ## Repo structure
 
-- `index.html`, `publications.html`, `research.html`, `writing.html` — pages
+- `index.html`, `publications.html`, `research.html`, `writing.html` — top-level pages
 - `css/style.css` — design system and all page styles
-- `js/main.js`, `js/publications.js` — shared behavior and the publications renderer
-- `data/publications.json` — publication data
-- `uploads/` — PDFs and per-publication assets
-- `assets/` — site-wide images (favicon, portrait, research banners)
-- `netlify.toml` — deploy config and 301 redirects from old Hugo paths
+- `js/` — small renderer scripts (mobile nav, publications list)
+- `data/` — publication metadata and per-pub author lists
+- `assets/` — site-wide images and the CV LaTeX source
+- `uploads/` — PDFs and per-publication assets served at static URLs
 
-## Previous version
+## License
 
-The previous Hugo Academic (Wowchemy) version of this site is preserved on the `hugo-archive` branch and tagged `v-hugo-final`.
+Content © William M. Gardner; site source code licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
