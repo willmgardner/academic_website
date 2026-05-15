@@ -1012,6 +1012,37 @@ img { display: block; max-width: 100%; }
 }
 .authors-toggle:hover { text-decoration: underline; }
 
+.full-authors-toggle {
+  background: none;
+  border: none;
+  color: var(--accent);
+  font-size: 0.85rem;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 4px;
+  font-family: var(--font-sans);
+}
+.full-authors-toggle:hover { text-decoration: underline; }
+.full-authors-toggle:disabled { opacity: 0.6; cursor: progress; }
+
+.full-authors-list {
+  display: block;
+  margin-top: 8px;
+  padding: 12px 14px;
+  background: rgba(0, 0, 0, 0.025);
+  border-left: 2px solid var(--accent);
+  border-radius: 2px;
+  max-height: 400px;
+  overflow-y: auto;
+  font-size: 0.85rem;
+  line-height: 1.55;
+  color: var(--text);
+}
+.full-authors-list .author-me {
+  color: var(--text);
+  font-weight: 600;
+}
+
 /* ============================================================
    RESEARCH PAGE
    ============================================================ */

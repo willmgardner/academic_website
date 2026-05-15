@@ -67,6 +67,11 @@ function renderEntry(pub) {
 
   const hasImage = pub.image ? ' pub-entry--with-image' : '';
 
+  const fullAuthorsHtml = pub.fullAuthorsCount
+    ? `<button class="full-authors-toggle" data-pub-id="${pub.id}" data-count="${pub.fullAuthorsCount}">Show all ${pub.fullAuthorsCount.toLocaleString()} authors</button>
+       <div class="full-authors-list" id="full-authors-${pub.id}" hidden></div>`
+    : '';
+
   return `
     <div class="pub-entry${hasImage}" data-projects="${pub.projects.join(' ')}" data-year="${pub.year}" data-type="${pub.type || 'article'}" data-id="${pub.id}">
       ${imageHtml}
@@ -74,7 +79,7 @@ function renderEntry(pub) {
         <div class="pub-entry-header">
           <div class="pub-entry-title">${titleEl}</div>
         </div>
-        <div class="pub-entry-authors">${authorHtml}</div>
+        <div class="pub-entry-authors">${authorHtml}${fullAuthorsHtml ? ' ' + fullAuthorsHtml : ''}</div>
         <div class="pub-entry-venue">${venueEl} ${typeBadge}</div>
         <div class="pub-entry-links">${pdfLink}${doiLink}${extraLinks}</div>
       </div>
@@ -107,6 +112,39 @@ function renderList(pubs, container) {
         ${groups[year].map(renderEntry).join('')}
       </div>
     </div>`).join('');
+
+  // Wire up full-author lazy-load toggle (corporate-author papers)
+  container.querySelectorAll('.full-authors-toggle').forEach(btn => {
+    const pubId = btn.dataset.pubId;
+    const count = parseInt(btn.dataset.count, 10);
+    const list = document.getElementById(`full-authors-${pubId}`);
+    const defaultLabel = `Show all ${count.toLocaleString()} authors`;
+    btn.addEventListener('click', async () => {
+      if (!list.hasAttribute('hidden')) {
+        list.setAttribute('hidden', '');
+        btn.textContent = defaultLabel;
+        return;
+      }
+      if (!list.dataset.loaded) {
+        btn.textContent = 'Loading…';
+        btn.disabled = true;
+        try {
+          const res = await fetch(`data/authors/${pubId}.json`);
+          const data = await res.json();
+          list.innerHTML = data.authors.map(a =>
+            isMe(a) ? `<span class="author-me">${a}</span>` : a
+          ).join(', ');
+          list.dataset.loaded = '1';
+        } catch (e) {
+          list.innerHTML = '<em>Could not load author list.</em>';
+        } finally {
+          btn.disabled = false;
+        }
+      }
+      list.removeAttribute('hidden');
+      btn.textContent = 'Collapse';
+    });
+  });
 
   // Wire up author expand/collapse
   container.querySelectorAll('.authors-toggle').forEach(btn => {

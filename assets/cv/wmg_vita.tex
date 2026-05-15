@@ -45,10 +45,10 @@
 %%% Metadata
 %%%------------------------------------------------------------------------
 
-\def\myauthor{William Gardner}
+\def\myauthor{William M. Gardner}
 \def\mytitle{Vita}
 \def\mycopyright{\myauthor}
-\def\myaffiliation{Columbia University Vagelos Colleges of Physicians & Surgeons}
+\def\myaffiliation{Brigham and Women's Hospital, Harvard University}
 \def\myemail{wmg2114@cumc.columbia.edu}
 \def\myweb{willgardner.io}
 \def\mygithub{github.com/willmgardner}
@@ -102,6 +102,14 @@
 \def\labelitemi{~}
 \renewcommand{\labelitemii}{~}
 
+%% Running page header for pages 2+ (page 1 stays clean via \thispagestyle{empty}).
+\makepagestyle{cvpage}
+\makeoddhead{cvpage}{}{}{\footnotesize William M. Gardner \,\textperiodcentered\, CV \,\textperiodcentered\, p.~\thepage}
+\makeevenhead{cvpage}{}{}{\footnotesize William M. Gardner \,\textperiodcentered\, CV \,\textperiodcentered\, p.~\thepage}
+\makeoddfoot{cvpage}{}{}{}
+\makeevenfoot{cvpage}{}{}{}
+\pagestyle{cvpage}
+
 %% Numbered publication list. Each \begin{publist} restarts at 1.
 %% Hanging indent mirrors the \ind macro: label sits at column 0, body at ~1cm.
 \newlist{publist}{enumerate}{1}
@@ -122,7 +130,7 @@
 %%%------------------------------------------------------------------------
 \begin{minipage}[t]{3.5in}
  \flushright {\footnotesize
- \href{http://vagelos.columbia.edu}{Vagelos College of Physicians and Surgeons} \\ Columbia University \\
+ \href{https://www.brighamandwomens.org/}{Brigham and Women's Hospital} \\ Harvard University \\
  \vspace{.40 cm} \href{http://healthdata.org}{Institute for Health Metrics and Evaluation} \\ University of Washington \\ }
 \end{minipage}
 \hfill
@@ -143,18 +151,23 @@
 \bigskip
 
 %% Name
-\noindent{\LARGE\scheader \textsc{william gardner}}
+\noindent{\LARGE\scheader \textsc{william m. gardner}}
 \reversemarginpar
 
 \bigskip
 
 %% Education
 
-\marginhead{\sffamily {{\vskip -0.23em} education}}
+\marginhead{\sffamily {{\vskip -0.23em} education \newline \& training}}
 
+\noindent{\minbold{Brigham and Women's Hospital, Harvard University \vspace{0.01in}}}
+
+\ind Residency, Internal Medicine, 2026 -- 2029.
+
+\medskip
 \noindent{\minbold{Columbia University \vspace{0.01in}}}
 
-\ind Doctor of Medicine, expected 2026.
+\ind Doctor of Medicine, 2026.
 
 \medskip
 \noindent{\minbold{University of Washington \vspace{0.01in}}}
@@ -214,17 +227,6 @@ Health in Latin America," which culminated in my senior thesis; Duties included 
 literature reviews and cited reference searches, acquiring and cleaning relevant data sources, data modeling
 and statistical analysis, and manuscript writing.}
 
-\bigskip
-
-% Child Family Health International
-\noindent{\minbold{Child Family Health International\vspace{0.01in}}} \hfill Quito \& Chone, Ecuador
-
-\ind Urban and Rural Comparative Health Intern\vspace{0.02in} \hfill 2014
-
-{\noindent \footnotesize Observed and participated in clinical rotations in various specialty clinics and hospitals in the towns of Quito
-and Chone, Ecuador; Researched and reported on topics dealing with health disparities and inequalities between urban and rural healthcare systems; 
-attended weekly lectures on topics in global health and health policy in Ecuador.}
-
 \newpage
 
 %% Publications
@@ -240,120 +242,79 @@ attended weekly lectures on topics in global health and health policy in Ecuador
 % [AUTO-INSERT: PUBLICATIONS]
 % New entries from scripts/add_publications.py are inserted directly below this marker.
 
-\item Teply CJ\textsuperscript{\textdagger}, {\minbold Gardner WM}\textsuperscript{\textdagger}, Noyes TS, McHugh TA, \emph{et al.} \href{https://doi.org/10.1016/S2352-3026(26)00013-X}{Implications of changes in WHO haemoglobin elevation adjustment guidelines on global, regional, and national anaemia burden, 1990–2023: a population-based modelling study}. \emph{The Lancet Haematology} 2026; 13: e227--e240.
+\item Nanditha NGA, Rhee DK, Teply CJ, \emph{et al.} Adverse maternal and neonatal outcomes associated with hemoglobin concentration in pregnancy: a Burden of Proof study. Accepted at \emph{Nature Health}.
 
-\item {\minbold Gardner WM}, Balte PP, Eckhardt CM, Morris JE, \emph{et al.} \href{https://doi.org/10.1136/thorax-2025-224461}{Pipe and cigar use, lung function decline, and clinical outcomes: an analysis of the NHLBI Pooled Cohorts Study}. \emph{Thorax} 2026.
+\item Angelova Y, Kwak HR, Zimmerman P, \emph{et al.} Prevalence and predictors of patient-directed discharge in patients with opioid use disorder. Accepted at \emph{General Hospital Psychiatry}.
 
-\item Khan Z, Jones AE, {\minbold Gardner WM}, McGroder CF, \emph{et al.} \href{https://doi.org/10.1016/j.chstcc.2026.100265}{Inflammation, endothelial dysfunction, and frailty over 3 years in survivors of COVID-19 ARDS vs survivors of pneumonia}. \emph{CHEST Critical Care} 2026.
+\item Teply CJ\textsuperscript{\textdagger}, {\minbold Gardner WM}\textsuperscript{\textdagger}, Noyes TS, McHugh TA, Tandiono HA, Nanditha NGA, Harris AA, Perumal N, Markt-Maloney J, Howatt BC, Taylor HJ, Humphrey K, Bhutta ZA, Girelli D, Hay SI, Murray CJL, Musallam KM, Nnodu O, Suchdev PS, Kassebaum NJ. \href{https://doi.org/10.1016/S2352-3026(26)00013-X}{Implications of changes in WHO haemoglobin elevation adjustment guidelines on global, regional, and national anaemia burden, 1990–2023: a population-based modelling study}. \emph{The Lancet Haematology} 2026; 13: e227--e240.
 
-\item GBD 2023 Disease and Injury and Risk Factor Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(25)01637-X}{Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life 
-expectancy in 204 countries and territories, including 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023}. \emph{The Lancet} 2025; 406: 1873-1922. 
+\item {\minbold Gardner WM}, Balte PP, Eckhardt CM, Morris JE, Bhatt SP, Couper DJ, Freedman ND, Jacobs DR, Kalhan R, Loehr LR, London SJ, Lutsey PL, Schwartz JE, White W, Yende S, Sanchez TR, Oelsner EC. \href{https://doi.org/10.1136/thorax-2025-224461}{Pipe and cigar use, lung function decline, and clinical outcomes: an analysis of the NHLBI Pooled Cohorts Study}. \emph{Thorax} 2026.
 
-\item GBD 2023 Causes of Death Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(25)01917-8}{Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990–2023: a 
-systematic analysis for the Global Burden of Disease Study 2023}. \emph{The Lancet} 2025; 406: 1811-72. 
+\item Khan Z, Jones AE, {\minbold Gardner WM}, McGroder CF, Murphy SO, Depender C, Mira-Sanchez M, Ogunlusi CO, Garcia CK, Wei Y, Baldwin MR. \href{https://doi.org/10.1016/j.chstcc.2026.100265}{Inflammation, endothelial dysfunction, and frailty over 3 years in survivors of COVID-19 ARDS vs survivors of pneumonia}. \emph{CHEST Critical Care} 2026.
 
-\item GBD 2021 Dietary Iron Deficiency Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1038/s41591-025-03624-8}{Global, regional and national burden of dietary iron deficiency from 1990 to 2021: a Global Burden of 
-Disease study}. \emph{Nature Medicine} 2025; 404: 2543-83. 
+\item Hay SI, Ong KL, \ldots, {\minbold Gardner WM}, \ldots, Murray CJL, Gakidou E (GBD 2023 Disease and Injury and Risk Factor Collaborators). \href{https://doi.org/10.1016/S0140-6736(25)01637-X}{Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023}. \emph{The Lancet} 2025; 406: 1873--1922.
 
-\item Global Nutrition Target Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(24)01821-X}{Global, regional, and national progress towards the 2030 global nutrition targets and forecasts to 2050: a systematic 
-analysis for the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 404: 2543-83. 
+\item Naghavi M, Kyu HH, \ldots, {\minbold Gardner WM}, \ldots, Wool EE, Murray CJL (GBD 2023 Causes of Death Collaborators). \href{https://doi.org/10.1016/S0140-6736(25)01917-8}{Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023}. \emph{The Lancet} 2025; 406: 1811--72.
 
-\item GBD 2021 US Burden of Disease Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(24)01446-6}{The burden of diseases, injuries, and risk factors by state in the USA, 1990–2021: a systematic analysis for 
-the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 404: 2314-40. 
+\item Lee S, Son Y, \ldots, {\minbold Gardner WM}, \ldots, Yon DK, Kassebaum NJ (GBD 2021 Dietary Iron Deficiency Collaborators). \href{https://doi.org/10.1038/s41591-025-03624-8}{Global, regional and national burden of dietary iron deficiency from 1990 to 2021: a Global Burden of Disease study}. \emph{Nature Medicine} 2025; 404: 2543--83.
 
-\item GBD 2021 Global Stillbirths Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(24)01925-1}{Global, regional, and national stillbirths at 20 weeks' gestation or longer in 204 countries and territories, 
-1990–2021: findings from the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 404: 1955-88. 
+\item Arndt MB, Abate YH, \ldots, {\minbold Gardner WM}, \ldots, Kassebaum NJ, Reiner RC (Global Nutrition Target Collaborators). \href{https://doi.org/10.1016/S0140-6736(24)01821-X}{Global, regional, and national progress towards the 2030 global nutrition targets and forecasts to 2050: a systematic analysis for the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 404: 2543--83.
 
-\item GBD 2021 Risk Factors Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(24)00933-4}{Global burden and strength of evidence for 88 risk factors in 204 countries and 811 subnational locations, 
-1990–2021: a systematic analysis for the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 403: 2162--203.
+\item Mokdad AH, Bisignano C, \ldots, {\minbold Gardner WM}, \ldots, Zyoud SH, Murray CJL (GBD 2021 US Burden of Disease Collaborators). \href{https://doi.org/10.1016/S0140-6736(24)01446-6}{The burden of diseases, injuries, and risk factors by state in the USA, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 404: 2314--40.
 
-\item GBD 2021 Diseases and Injuries Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(24)00757-8}{Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), 
-and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990–-2021: a systematic analysis for the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 403: 2133--61.
+\item Comfort H, McHugh TA, \ldots, {\minbold Gardner WM}, \ldots, Dandona R, Kassebaum NJ (GBD 2021 Global Stillbirths Collaborators). \href{https://doi.org/10.1016/S0140-6736(24)01925-1}{Global, regional, and national stillbirths at 20 weeks' gestation or longer in 204 countries and territories, 1990–2021: findings from the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 404: 1955--88.
 
-\item GBD 2021 Causes of Death Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(24)00367-2}{Global burden of 288 causes of death and life expectancy decomposition in 204 countries and 
-territories and 811 subnational locations, 1990–-2021: a systematic analysis for the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 403: 2100--32.
+\item Brauer M, Roth GA, \ldots, {\minbold Gardner WM}, \ldots, Murray CJL, Gakidou E (GBD 2021 Risk Factors Collaborators). \href{https://doi.org/10.1016/S0140-6736(24)00933-4}{Global burden and strength of evidence for 88 risk factors in 204 countries and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 403: 2162--203.
 
-\item GBD 2021 Nervous System Disorders Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S1474-4422(24)00038-3}{Global, regional, and national burden of disorders affecting the nervous system, 
-1990–-2021: a systematic analysis for the Global Burden of Disease Study 2021}. \emph{The Lancet Neurology} 2024; 23: 344--81. 
+\item Ferrari AJ, Santomauro DF, \ldots, {\minbold Gardner WM}, \ldots, Vos T, Murray CJL (GBD 2021 Diseases and Injuries Collaborators). \href{https://doi.org/10.1016/S0140-6736(24)00757-8}{Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 403: 2133--61.
 
-\item {\minbold Gardner WM}, GBD 2021 Anaemia Collaborators, Kassebaum NJ. \href{https://doi.org/10.1016/S2352-3026(23)00160-6}{Prevalence, years lived with disability, and trends in anaemia burden by severity 
-and cause from 1990--2021: findings from the Global Burden of Disease Study 2021}. \emph{The Lancet Haematology} 2023; 10: e713--e734.
+\item Naghavi M, Ong KL, \ldots, {\minbold Gardner WM}, \ldots, Wool EE, Murray CJL (GBD 2021 Causes of Death Collaborators). \href{https://doi.org/10.1016/S0140-6736(24)00367-2}{Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021}. \emph{The Lancet} 2024; 403: 2100--32.
 
-\item GBD 2021 Sickle Cell Disease Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S2352-3026(23)00118-7}{Global, regional, and national prevalence and mortality burden of sickle cell disease, 2000--2021: 
-a systematic analysis from the Global Burden of Disease Study 2021}. \emph{The Lancet Haematology} 2023; 10: e585--e595.
+\item Steinmetz JD, Seeher KM, \ldots, {\minbold Gardner WM}, \ldots, Vos T, Dua T (GBD 2021 Nervous System Disorders Collaborators). \href{https://doi.org/10.1016/S1474-4422(24)00038-3}{Global, regional, and national burden of disorders affecting the nervous system, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021}. \emph{The Lancet Neurology} 2024; 23: 344--81.
 
-\item GBD 2019 Healthcare Access and Quality Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S2214-109X(22)00429-6}{Assessing performance of
-the Healthcare Access and Quality Index, overall and by select age groups, for 204 countries and territories,
-1990--2019: a systematic analysis from the Global Burden of Disease Study 2019}. \emph{The Lancet Global Health} 2022; 10: e1715--43.
+\item {\minbold Gardner WM}, Razo C, \ldots, Zoladl M, Kassebaum NJ (GBD 2021 Anaemia Collaborators). \href{https://doi.org/10.1016/S2352-3026(23)00160-6}{Prevalence, years lived with disability, and trends in anaemia burden by severity and cause from 1990--2021: findings from the Global Burden of Disease Study 2021}. \emph{The Lancet Haematology} 2023; 10: e713--e734.
 
-\item GBD 2019 LRI Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S1473-3099(22)00510-2}{Age-sex differences in the global burden of lower
-respiratory infections and risk factors, 1990--2019: results from the Global Burden of Disease Study 2019}. \emph{The Lancet Infectious Diseases} 2022; 22: 1626--47.
+\item Thomson AM, McHugh TA, \ldots, {\minbold Gardner WM}, \ldots, Murray CJL, Kassebaum NJ (GBD 2021 Sickle Cell Disease Collaborators). \href{https://doi.org/10.1016/S2352-3026(23)00118-7}{Global, regional, and national prevalence and mortality burden of sickle cell disease, 2000--2021: a systematic analysis from the Global Burden of Disease Study 2021}. \emph{The Lancet Haematology} 2023; 10: e585--e595.
 
-\item Gonçalves BP, Procter SR, Paul P, Chandna J, \emph{et al. (including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S2214-109X(22)00093-6}{Group B streptococcus infection during pregnancy 
-and infancy: estimates of regional and global burden}. \emph{The Lancet Global Health} 2022; 10: e807--19.
+\item Haakenstad A, Yearwood JA, \ldots, {\minbold Gardner WM}, \ldots, Murray CJL, Lozano R (GBD 2019 Healthcare Access and Quality Collaborators). \href{https://doi.org/10.1016/S2214-109X(22)00429-6}{Assessing performance of the Healthcare Access and Quality Index, overall and by select age groups, for 204 countries and territories, 1990--2019: a systematic analysis from the Global Burden of Disease Study 2019}. \emph{The Lancet Global Health} 2022; 10: e1715--43.
 
-\item Fitzgerald R, Manguerra H, Arndt MB, {\minbold Gardner WM}, \emph{et al.} \href{https://doi.org/10.1126/sciadv.abm8954}{Current dichotomous metrics obscure trends in
-severe and extreme child growth failure}. \emph{Science Advances} 2021; 8.
+\item Kyu HH, Sirota SB, \ldots, {\minbold Gardner WM}, \ldots, Brauer M, Hay SI (GBD 2019 LRI Collaborators). \href{https://doi.org/10.1016/S1473-3099(22)00510-2}{Age-sex differences in the global burden of lower respiratory infections and risk factors, 1990--2019: results from the Global Burden of Disease Study 2019}. \emph{The Lancet Infectious Diseases} 2022; 22: 1626--47.
 
-\item GBD 2019 Under-5 Mortality Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(21)01207-1}{Global, regional, and national progress
-towards Sustainable Development Goal 3.2 for neonatal and child health: all-cause and cause-specific
-mortality findings from the Global Burden of Disease Study 2019}. \emph{The Lancet} 2021; 398: 870--905.
+\item Gonçalves BP, Procter SR, Paul P, Chandna J, Lewin A, Seedat F, Koukounari A, Dangor Z, Leahy S, Santhanam S, John HB, Bramugy J, Bardají A, Abubakar A, Nasambu C, Libster R, Yanotti CS, Horváth-Puhó E, Sørensen HT, Beek DVD, Bijlsma MW, {\minbold Gardner WM}, Kassebaum N, Trotter C, Bassat Q, Madhi SA, Lambach P, Jit M, Lawn JE. \href{https://doi.org/10.1016/S2214-109X(22)00093-6}{Group B streptococcus infection during pregnancy and infancy: estimates of regional and global burden}. \emph{The Lancet Global Health} 2022; 10: e807--19.
 
-\item Local Burden of Disease Exclusive Breastfeeding Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1038/s41562-021-01108-6}{Mapping inequalities
-in exclusive breastfeeding in low- and middle-income countries, 2000--2018}. \emph{Nature Human Behaviour} 2021; 5: 1027--45.
+\item Fitzgerald R, Manguerra H, Arndt MB, {\minbold Gardner WM}, Chang YY, Zigler B, Taylor HJ, Bienhoff K, Smith DL, Murray CJL, Hay SI, Reiner RC, Kassebaum NJ. \href{https://doi.org/10.1126/sciadv.abm8954}{Current dichotomous metrics obscure trends in severe and extreme child growth failure}. \emph{Science Advances} 2021; 8.
 
-\item GBD 2019 Universal Health Coverage Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(20)30750-9}{Measuring universal health
-coverage based on an index of effective coverage of health services in 204 countries and territories, 1990--2019: a 
-systematic analysis for the Global Burden of Disease Study 2019}. \emph{The Lancet} 2020; 396: 1250--84.
+\item Paulson KR, Kamath AM, \ldots, {\minbold Gardner WM}, \ldots, Wang H, Kassebaum NJ (GBD 2019 Under-5 Mortality Collaborators). \href{https://doi.org/10.1016/S0140-6736(21)01207-1}{Global, regional, and national progress towards Sustainable Development Goal 3.2 for neonatal and child health: all-cause and cause-specific mortality findings from the Global Burden of Disease Study 2019}. \emph{The Lancet} 2021; 398: 870--905.
 
-\item GBD 2019 Risk Factors Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(20)30752-2}{Global burden of 87 risk factors in 204
-countries and territories, 1990--2019: a systematic analysis for the Global Burden of Disease Study 2019}. \emph{The Lancet} 2020; 396: 1223--49.
+\item Bhattacharjee NV, Schaeffer LE, \ldots, {\minbold Gardner WM}, \ldots, Zuniga YMH, Hay SI (Local Burden of Disease Exclusive Breastfeeding Collaborators). \href{https://doi.org/10.1038/s41562-021-01108-6}{Mapping inequalities in exclusive breastfeeding in low- and middle-income countries, 2000--2018}. \emph{Nature Human Behaviour} 2021; 5: 1027--45.
 
-\item GBD 2019 Diseases and Injuries Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(20)30925-9}{Global burden of 369 diseases and
-injuries in 204 countries and territories, 1990--2019: a systematic analysis for the Global Burden of Disease
-Study 2019}. \emph{The Lancet} 2020; 396: 1204--22.
+\item Lozano R, Fullman N, \ldots, {\minbold Gardner WM}, \ldots, Zodpey S, Murray CJL (GBD 2019 Universal Health Coverage Collaborators). \href{https://doi.org/10.1016/S0140-6736(20)30750-9}{Measuring universal health coverage based on an index of effective coverage of health services in 204 countries and territories, 1990--2019: a systematic analysis for the Global Burden of Disease Study 2019}. \emph{The Lancet} 2020; 396: 1250--84.
 
-\item GBD 2019 Viewpoint Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(20)31404-5}{Five insights from the Global Burden of Disease Study 2019}. 
-\emph{The Lancet} 2020; 396: 1135--59.
+\item Murray CJL, Aravkin AY, \ldots, {\minbold Gardner WM}, \ldots, Afshin A, Lim SS (GBD 2019 Risk Factors Collaborators). \href{https://doi.org/10.1016/S0140-6736(20)30752-2}{Global burden of 87 risk factors in 204 countries and territories, 1990--2019: a systematic analysis for the Global Burden of Disease Study 2019}. \emph{The Lancet} 2020; 396: 1223--49.
 
-\item India State-Level Disease Burden Initiative Child Mortality Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(20)30471-2}{Subnational mapping of under-5 and neonatal mortality trends in India: the Global Burden of Disease Study
-2000--17}. \emph{The Lancet} 2020; 395: 1640--58.
+\item Vos T, Lim SS, \ldots, {\minbold Gardner WM}, \ldots, Naghavi M, Murray CJL (GBD 2019 Diseases and Injuries Collaborators). \href{https://doi.org/10.1016/S0140-6736(20)30925-9}{Global burden of 369 diseases and injuries in 204 countries and territories, 1990--2019: a systematic analysis for the Global Burden of Disease Study 2019}. \emph{The Lancet} 2020; 396: 1204--22.
 
-\item GBD 2017 Lower Respiratory Infections Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S1473-3099(19)30410-4}{Quantifying risks and interventions that have affected
-the burden of lower respiratory infections among children younger than 5 years: an analysis for the Global
-Burden of Disease Study 2017}. \emph{The Lancet Infectious Diseases} 2020; 20: 60--79.
+\item Murray CJL, Abbafati C, \ldots, {\minbold Gardner WM}, \ldots, Vos T, Lim SS (GBD 2019 Viewpoint Collaborators). \href{https://doi.org/10.1016/S0140-6736(20)31404-5}{Five insights from the Global Burden of Disease Study 2019}. \emph{The Lancet} 2020; 396: 1135--59.
 
-\item GBD 2017 Diarrhoeal Disease Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S1473-3099(19)30401-3}{Quantifying risks and interventions that have
-affected the burden of diarrhoea among children younger than 5 years: an analysis of the Global Burden of
-Disease Study 2017}. \emph{The Lancet Infectious Diseases} 2020; 20: 37--59.
+\item Dandona R, Kumar GA, \ldots, {\minbold Gardner WM}, \ldots, Sharma RS, Dandona L (India State-Level Disease Burden Initiative Child Mortality Collaborators). \href{https://doi.org/10.1016/S0140-6736(20)30471-2}{Subnational mapping of under-5 and neonatal mortality trends in India: the Global Burden of Disease Study 2000--17}. \emph{The Lancet} 2020; 395: 1640--58.
 
-\item India State-Level Disease Burden Initiative Malnutrition Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S2352-4642(19)30273-1}{The burden
-of child and maternal malnutrition and trends in its indicators in the states of India: the Global Burden of
-Disease Study 1990--2017}. \emph{The Lancet Child \& Adolescent Health} 2019; 3: 855--70.
+\item Troeger CE, Khalil IA, \ldots, {\minbold Gardner WM}, \ldots, Hay SI, Reiner RC (GBD 2017 Lower Respiratory Infections Collaborators). \href{https://doi.org/10.1016/S1473-3099(19)30410-4}{Quantifying risks and interventions that have affected the burden of lower respiratory infections among children younger than 5 years: an analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet Infectious Diseases} 2020; 20: 60--79.
 
-\item Bhattacharjee N, Schaeffer L, Marczak L, Ross J, Swartz S, Albright J, {\minbold Gardner WM}, Shields C, \emph{et al.} 
-\href{https://doi.org/10.1038/s41591-019-0525-0}{Mapping exclusive breastfeeding in Africa between 2000 and 2017}. \emph{Nature Medicine} 2019; 25: 1205--12.
+\item Troeger CE, Khalil IA, \ldots, {\minbold Gardner WM}, \ldots, Hay SI, Reiner RC (GBD 2017 Diarrhoeal Disease Collaborators). \href{https://doi.org/10.1016/S1473-3099(19)30401-3}{Quantifying risks and interventions that have affected the burden of diarrhoea among children younger than 5 years: an analysis of the Global Burden of Disease Study 2017}. \emph{The Lancet Infectious Diseases} 2020; 20: 37--59.
 
-\item GBD 2017 SDG Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(18)32281-5}{Measuring progress from 1990 to 2017 and
-projecting attainment to 2030 of the health-related Sustainable Development Goals for 195 countries and
-territories: a systematic analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 2091--138.
+\item Swaminathan S, Hemalatha R, \ldots, {\minbold Gardner WM}, \ldots, Toteja GS, Dandona L (India State-Level Disease Burden Initiative Malnutrition Collaborators). \href{https://doi.org/10.1016/S2352-4642(19)30273-1}{The burden of child and maternal malnutrition and trends in its indicators in the states of India: the Global Burden of Disease Study 1990--2017}. \emph{The Lancet Child \& Adolescent Health} 2019; 3: 855--70.
 
-\item GBD 2017 Risk Factor Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(18)32225-6}{Global, regional, and national comparative
-risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks
-for 195 countries and territories, 1990--2017: a systematic analysis for the Global Burden of Disease Study
-2017}. \emph{The Lancet} 2018; 392: 1923--94.
+\item Bhattacharjee NV, Schaeffer LE, \ldots, {\minbold Gardner WM}, \ldots, Dwyer-Lindgren L, Hay SI. \href{https://doi.org/10.1038/s41591-019-0525-0}{Mapping exclusive breastfeeding in Africa between 2000 and 2017}. \emph{Nature Medicine} 2019; 25: 1205--12.
 
-\item GBD 2017 Disease and Injury Incidence and Prevalence Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(18)32279-7}{Global, regional, and national incidence,
-prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990--2017: a 
-systematic analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 1789--858.
+\item Lozano R, Fullman N, \ldots, {\minbold Gardner WM}, \ldots, Lim SS, Murray CJL (GBD 2017 SDG Collaborators). \href{https://doi.org/10.1016/S0140-6736(18)32281-5}{Measuring progress from 1990 to 2017 and projecting attainment to 2030 of the health-related Sustainable Development Goals for 195 countries and territories: a systematic analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 2091--138.
 
-\item GBD 2017 DALYs and HALE Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(18)32335-3}{Global, regional, and national disability-adjusted
-life-years (DALYs) for 359 diseases and injuries and healthy life expectancy (HALE) for 195 countries and
-territories, 1990--2017: a systematic analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 1859--922.
+\item Stanaway JD, Afshin A, \ldots, {\minbold Gardner WM}, \ldots, Zodpey S, Murray CJL (GBD 2017 Risk Factor Collaborators). \href{https://doi.org/10.1016/S0140-6736(18)32225-6}{Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 195 countries and territories, 1990--2017: a systematic analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 1923--94.
 
-\item GBD 2017 Causes of Death Collaborators \emph{(including \textbf{Gardner WM}).} \href{https://doi.org/10.1016/S0140-6736(18)32203-7}{Global, regional, and national age-sex-specific
-mortality for 282 causes of death in 195 countries and territories, 1980--2017: a systematic analysis for the
-Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 1736--88.
+\item James SL, Abate D, \ldots, {\minbold Gardner WM}, \ldots, Vos T, Murray CJL (GBD 2017 Disease and Injury Incidence and Prevalence Collaborators). \href{https://doi.org/10.1016/S0140-6736(18)32279-7}{Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990--2017: a systematic analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 1789--858.
+
+\item Kyu HH, Abate D, \ldots, {\minbold Gardner WM}, \ldots, Zuhlke LJ, Murray CJL (GBD 2017 DALYs and HALE Collaborators). \href{https://doi.org/10.1016/S0140-6736(18)32335-3}{Global, regional, and national disability-adjusted life-years (DALYs) for 359 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, 1990--2017: a systematic analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 1859--922.
+
+\item Roth GA, Abate D, \ldots, {\minbold Gardner WM}, \ldots, Naghavi M, Murray CJL (GBD 2017 Causes of Death Collaborators). \href{https://doi.org/10.1016/S0140-6736(18)32203-7}{Global, regional, and national age-sex-specific mortality for 282 causes of death in 195 countries and territories, 1980--2017: a systematic analysis for the Global Burden of Disease Study 2017}. \emph{The Lancet} 2018; 392: 1736--88.
 
 \end{publist}
 
@@ -408,7 +369,7 @@ Interventions. Society for Pediatric and Perinatal Epidemiology Annual Conferenc
 \marginhead{\sffamily {\vskip 0.5em} invited \newline presentations}
 \medskip
 
-\ind {\minbold William Gardner} 2023, 2024. "Anemia As a Global Public Health Challenge." 
+\ind {\minbold William Gardner} 2023, 2024, 2025. "Anemia As a Global Public Health Challenge."
 
 \indent \indent Institute of Human Nutrition, Columbia University, New York, NY.
 
@@ -440,6 +401,8 @@ Interventions. Society for Pediatric and Perinatal Epidemiology Annual Conferenc
 
 \marginhead{\sffamily {\vskip 0.6em}honors \newline \& awards}
 \medskip
+
+\ind Alpha Omega Alpha Medical Honor Society (Columbia University VP\&S) \hfill 2026
 
 \ind Fellow, International Fellows Program (Columbia University SIPA) \hfill 2025 -- 2026
 
